@@ -1,0 +1,1992 @@
+Cloud or On-Premise,Lead Source,Opportunity Owner,Stage,Close Date,Type,Amount,Company Country (CB),Company Industry (CB)
+,Web,Dave,Lost,1/6/2021,New,1000,France,Aerospace & Defense
+,,Dave,Lost,12/28/2018,New,1000,United States,Aerospace & Defense
+,Web,Dave,Lost,4/8/2021,New,1000,United States,Aerospace & Defense
+,,Sammy,Lost,6/30/2016,Upsell,1000,France,Aerospace & Defense
+Cloud C,Web,Steve,Lost,12/10/2021,New,1000,France,Aerospace & Defense
+,,Susans,Lost,9/21/2017,Upsell,1000,United States,Aerospace & Defense
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Aerospace & Defense
+,,Susans,Lost,2/26/2016,Upsell,1000,United States,Aerospace & Defense
+On-Premise,,Tom,Lost,9/27/2018,New,1000,United States,Aerospace & Defense
+Cloud A,,Dave,Lost,7/31/2020,New,50000,United States,Aerospace & Defense
+Cloud B,Partner,Steve,Lost,9/9/2020,New,50000,Canada,Aerospace & Defense
+On-Premise,,Paul,Won,6/30/2021,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Sammy,Won,9/29/2018,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Susans,Won,9/29/2017,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Dave,Won,3/12/2021,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Dave,Won,4/13/2020,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Paul,Proposal,4/23/2022,Renewal,50000,United States,Aerospace & Defense
+On-Premise,,Susans,Won,2/6/2019,Upsell,75000,United States,Aerospace & Defense
+On-Premise,,Dave,Lost,9/30/2020,Upsell,75000,United States,Aerospace & Defense
+On-Premise,,Susans,Won,8/20/2018,New,100000,United States,Aerospace & Defense
+Cloud A,,Steve,Lost,1/31/2020,New,100000,United Kingdom,Aerospace & Defense
+On-Premise,,Greg,Proposal,1/31/2024,Renewal,100000,United States,Aerospace & Defense
+On-Premise,Web,Greg,Won,2/1/2022,New,150000,United States,Aerospace & Defense
+,,Susans,Lost,9/29/2017,Upsell,150000,United States,Aerospace & Defense
+On-Premise,,Sammy,Won,9/30/2016,Upsell,200000,United States,Aerospace & Defense
+,Web,Dave,Lost,4/6/2021,New,1000,Norway,Air Freight & Logistics
+,Web,Dave,Lost,4/1/2022,New,1000,Finland,Air Freight & Logistics
+On-Premise,Web,Paul,Won,4/23/2021,New,1000,United States,Air Freight & Logistics
+,,Sammy,Lost,12/29/2017,New,1000,Netherlands,Air Freight & Logistics
+,,Susans,Lost,3/26/2018,New,1000,United States,Air Freight & Logistics
+On-Premise,Partner,Susans,Lost,8/6/2018,New,1000,Germany,Air Freight & Logistics
+Cloud B,Partner,Tom,Lost,5/6/2021,New,1000,United Arab Emirates,Air Freight & Logistics
+,,Tom,Lost,12/30/2016,Upsell,1000,United States,Air Freight & Logistics
+On-Premise,Web,Paul,Won,11/11/2021,Upsell,10000,United States,Air Freight & Logistics
+,,Ed,Won,1/5/2022,Upsell,20000,United States,Air Freight & Logistics
+Cloud B,Partner,Susans,Won,7/31/2020,New,20000,Germany,Air Freight & Logistics
+Cloud A,,Dave,Lost,4/14/2021,Renewal,50000,United States,Air Freight & Logistics
+Cloud A,Web,Dave,Won,6/10/2020,New,50000,United States,Air Freight & Logistics
+Cloud B,Partner,Susans,Lost,6/30/2020,New,50000,Portugal,Air Freight & Logistics
+,Web,Dave,Lost,12/20/2019,New,50000,United States,Air Freight & Logistics
+Cloud B,Web,Dave,Lost,9/4/2020,New,75000,Norway,Air Freight & Logistics
+,Web,Joe,Meeting,4/29/2022,New,75000,United States,Air Freight & Logistics
+,,Larry,Proposal,5/6/2022,Renewal,80000,United States,Air Freight & Logistics
+Cloud A,,Dave,Lost,10/23/2020,New,100000,Germany,Air Freight & Logistics
+Cloud B,,Paul,Lost,12/31/2019,New,100000,United States,Air Freight & Logistics
+On-Premise,Web,Mike,Proposal,4/23/2022,Renewal,100000,United States,Air Freight & Logistics
+,,Larry,Validation,7/6/2022,Upsell,100000,United States,Air Freight & Logistics
+Cloud C,,Dave,Won,10/28/2020,Upsell,100000,United States,Air Freight & Logistics
+Cloud C,Web,Larry,Proposal,3/28/2022,Renewal,100000,United States,Air Freight & Logistics
+,Partner,Dave,Lost,12/31/2021,Upsell,100000,United States,Air Freight & Logistics
+,Partner,Dave,Lost,9/16/2021,Upsell,100000,United States,Air Freight & Logistics
+On-Premise,,Dave,Won,1/7/2021,Upsell,150000,United States,Air Freight & Logistics
+On-Premise,,Dave,Won,12/27/2021,Renewal,150000,United States,Air Freight & Logistics
+On-Premise,,Larry,Proposal,1/6/2023,Renewal,150000,United States,Air Freight & Logistics
+,,Susans,Won,9/30/2016,New,150000,Turkey,Air Freight & Logistics
+On-Premise,,Dave,Won,2/18/2021,Renewal,150000,United States,Air Freight & Logistics
+On-Premise,,Dave,Won,4/7/2020,New,150000,United States,Air Freight & Logistics
+On-Premise,,Larry,Proposal,4/6/2022,Renewal,150000,United States,Air Freight & Logistics
+Cloud C,,Dave,Lost,3/31/2021,Upsell,150000,United States,Air Freight & Logistics
+Cloud B,,Dave,Won,4/23/2020,Renewal,150000,United States,Air Freight & Logistics
+Cloud B,Web,Dave,Won,5/4/2021,Renewal,150000,United States,Air Freight & Logistics
+Cloud B,Web,Larry,Proposal,5/5/2022,Renewal,150000,United States,Air Freight & Logistics
+On-Premise,Partner,Dave,Lost,7/8/2021,Upsell,150000,United States,Air Freight & Logistics
+Cloud B,Event,Susans,Won,4/30/2019,New,150000,United States,Air Freight & Logistics
+Cloud B,Partner,Dave,Won,6/24/2021,Renewal,200000,United States,Air Freight & Logistics
+Cloud B,Partner,Dave,Won,6/30/2020,New,200000,United States,Air Freight & Logistics
+Cloud B,Partner,Ed,Proposal,6/30/2022,Renewal,200000,United States,Air Freight & Logistics
+On-Premise,Web,Larry,Validation,11/16/2022,Upsell,200000,United States,Air Freight & Logistics
+,Partner,Paul,Meeting,3/31/2022,New,200000,Germany,Air Freight & Logistics
+,Web,Dave,Lost,10/13/2021,New,1000,United States,Airlines
+,,Dave,Lost,5/31/2018,New,1000,United States,Airlines
+On-Premise,,Dave,Lost,7/1/2020,Upsell,1000,United States,Airlines
+,,Fred,Lost,12/15/2020,Partnership,1000,United States,Airlines
+,Partner,Greg,Won,1/24/2022,Upsell,1000,United States,Airlines
+,,Paul,Lost,12/28/2018,New,1000,United States,Airlines
+Cloud A,,Sammy,Lost,8/30/2019,New,1000,United Kingdom,Airlines
+,Partner,Steve,Requalify,3/18/2022,New,1000,Canada,Airlines
+,Partner,Steve,Won,6/8/2021,Upsell,1000,United States,Airlines
+,Partner,Steve,Won,9/20/2021,Upsell,1000,United States,Airlines
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Airlines
+,,Susans,Lost,6/29/2018,Upsell,1000,United States,Airlines
+,,Susans,Lost,12/30/2017,Upsell,1000,United States,Airlines
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Airlines
+,,Susans,Lost,4/9/2018,New,1000,United States,Airlines
+,,Susans,Lost,6/30/2018,New,1000,United States,Airlines
+Cloud A,,Tom,Lost,11/15/2019,New,1000,Finland,Airlines
+On-Premise,,Susans,Won,10/19/2018,Upsell,10000,United States,Airlines
+Cloud B,Partner,Susans,Won,2/11/2019,Upsell,10000,United States,Airlines
+,,Sammy,Won,6/27/2018,Upsell,20000,Turkey,Airlines
+Cloud B,Partner,Susans,Won,12/13/2018,Upsell,40000,United States,Airlines
+,,Susans,Lost,8/31/2016,Upsell,50000,Turkey,Airlines
+Cloud A,Web,Tom,Lost,7/31/2020,New,50000,Colombia,Airlines
+Cloud B,Partner,Susans,Won,4/11/2019,Upsell,50000,United States,Airlines
+Cloud B,Partner,Susans,Lost,9/30/2020,New,75000,United States,Airlines
+,,Sammy,Won,2/10/2019,Upsell,75000,United States,Airlines
+Cloud B,,Dave,Lost,4/1/2022,New,100000,United States,Airlines
+,,Ed,Qualification,5/30/2022,New,100000,United States,Airlines
+,Web,Paul,Meeting,9/30/2022,New,100000,Spain,Airlines
+Cloud B,,Steve,Lost,12/18/2020,New,100000,United Kingdom,Airlines
+,,Susans,Lost,3/31/2016,,100000,United States,Airlines
+Cloud B,,Susans,Lost,9/30/2020,New,100000,United States,Airlines
+,Partner,Craig,Meeting,5/31/2022,New,100000,Colombia,Airlines
+Cloud B,Partner,Susans,Won,12/13/2018,New,150000,United States,Airlines
+,Partner,Greg,Proposal,12/11/2022,Renewal,150000,United States,Airlines
+Cloud B,Partner,Steve,Lost,12/12/2019,Renewal,150000,United States,Airlines
+On-Premise,,Susans,Won,5/1/2018,New,150000,United States,Airlines
+On-Premise,,Dave,Lost,7/31/2020,Upsell,150000,United States,Airlines
+On-Premise,,Dave,Lost,11/12/2020,Renewal,200000,United States,Airlines
+Cloud B,Partner,Steve,Won,12/12/2019,Renewal,200000,United States,Airlines
+On-Premise,,Susans,Won,11/6/2018,Upsell,200000,United States,Airlines
+On-Premise,,Dave,Won,11/6/2019,Renewal,200000,United States,Airlines
+,Web,Paul,Meeting,3/31/2022,New,200000,Turkey,Airlines
+,Partner,Susans,Lost,8/31/2017,Upsell,1000,United States,al Products
+Cloud C,Partner,Sammy,Proposal,6/30/2021,Renewal,20000,United States,al Products
+Cloud C,Partner,Sammy,Proposal,7/31/2021,Renewal,100000,United States,al Products
+Cloud C,Partner,Susans,Won,2/28/2020,New,150000,United States,al Products
+Cloud C,Partner,Sammy,Proposal,11/30/2021,Renewal,150000,United States,al Products
+Cloud C,Import,Larry,Proposal,6/30/2022,Renewal,200000,United States,al Products
+,Partner,Alex,Lost,4/16/2021,New,1000,Germany,Automotive
+,Partner,Alex,Lost,4/30/2021,Upsell,1000,Germany,Automotive
+,Web,Dave,Lost,4/1/2022,New,1000,Sweden,Automotive
+,Web,Dave,Lost,1/27/2021,New,1000,France,Automotive
+,,Paul,Lost,11/30/2018,New,1000,United States,Automotive
+,Partner,Paul,Lost,9/30/2021,New,1000,United States,Automotive
+Cloud B,,Paul,Lost,12/31/2018,New,1000,United States,Automotive
+,,Paul,Lost,12/31/2018,New,1000,United States,Automotive
+,,Paul,Lost,12/31/2018,New,1000,United States,Automotive
+On-Premise,,Sammy,Lost,7/27/2018,New,1000,Germany,Automotive
+On-Premise,Partner,Sammy,Lost,12/21/2018,New,1000,Germany,Automotive
+Cloud B,Partner,Steve,Lost,10/1/2021,New,1000,Canada,Automotive
+,,Susans,Lost,9/30/2017,Upsell,1000,United States,Automotive
+,,Susans,Lost,3/30/2018,New,1000,United States,Automotive
+,,Susans,Lost,3/30/2018,Upsell,1000,United States,Automotive
+On-Premise,Web,Tom,Lost,12/1/2020,New,1000,United States,Automotive
+,Partner,Paul,Won,5/19/2021,Renewal,10000,United States,Automotive
+Cloud B,Partner,Paul,Won,2/23/2021,Renewal,20000,United States,Automotive
+,Web,Alex,Lost,12/31/2019,New,20000,India,Automotive
+,,Susans,Lost,12/18/2017,Upsell,20000,Japan,Automotive
+,,Susans,Lost,3/31/2016,Upsell,20000,United States,Automotive
+,,Sammy,Lost,12/31/2018,New,40000,Turkey,Automotive
+,,Susans,Lost,1/18/2016,Upsell,50000,United States,Automotive
+On-Premise,,Steve,Lost,2/28/2019,New,50000,United States,Automotive
+,,Dave,Won,5/19/2021,Upsell,50000,United States,Automotive
+,,Larry,Proposal,5/25/2022,Renewal,50000,United States,Automotive
+,,Dave,Lost,10/13/2020,New,50000,United States,Automotive
+,,Susans,Lost,10/16/2015,Upsell,75000,United States,Automotive
+Cloud B,Partner,Alex,Won,12/19/2019,New,75000,Germany,Automotive
+Cloud B,Partner,Alex,Won,12/2/2021,Renewal,75000,Germany,Automotive
+Cloud B,Partner,Alex,Won,12/4/2020,Renewal,75000,Germany,Automotive
+Cloud B,,Joe,Proposal,12/20/2022,Renewal,75000,Germany,Automotive
+Cloud A,,Mary,Qualification,6/30/2022,New,100000,United States,Automotive
+,,Dave,Won,11/23/2020,Upsell,100000,United States,Automotive
+,,Dave,Won,10/20/2021,Renewal,100000,United States,Automotive
+,,Larry,Proposal,11/6/2022,Renewal,100000,United States,Automotive
+Cloud C,,Steve,Lost,2/26/2021,New,100000,United States,Automotive
+Cloud B,Partner,Paul,Lost,3/15/2019,New,150000,Germany,Automotive
+Cloud B,,Dave,Won,6/26/2020,Renewal,150000,United States,Automotive
+Cloud B,,Dave,Won,7/1/2021,Renewal,150000,United States,Automotive
+Cloud B,Partner,Dave,Lost,9/4/2020,Upsell,150000,United States,Automotive
+Cloud B,,Larry,Proposal,7/14/2022,Renewal,150000,United States,Automotive
+Cloud B,Event,Dave,Won,6/28/2019,New,150000,United States,Automotive
+On-Premise,Web,Paul,Qualification,7/29/2022,New,150000,France,Automotive
+Cloud B,Partner,Susans,Won,1/1/2020,New,150000,United States,Automotive
+Cloud B,Partner,Dave,Lost,9/30/2020,Upsell,150000,United States,Automotive
+,,Sammy,Lost,12/31/2018,New,150000,Italy,Automotive
+,Partner,Joe,Meeting,8/24/2022,New,200000,United States,Automotive
+Cloud C,,Joe,Proposal,11/7/2022,Renewal,200000,United States,Automotive
+Cloud C,Partner,Paul,Won,11/8/2021,New,200000,United States,Automotive
+,Partner,Joe,Meeting,5/31/2022,New,200000,Germany,Automotive
+,Partner,Larry,Meeting,3/31/2022,,200000,United States,Automotive
+,Partner,Larry,Meeting,3/31/2022,,200000,United States,Automotive
+,Web,Dave,Lost,4/1/2022,New,1000,United States,Banks
+,,Dave,Lost,5/4/2018,New,1000,United States,Banks
+,Web,Paul,Requalify,2/28/2022,New,1000,Canada,Banks
+,,Sammy,Lost,12/31/2017,Upsell,1000,Russia,Banks
+,,Sammy,Lost,2/28/2018,New,1000,India,Banks
+,,Steve,Lost,12/31/2016,Upsell,1000,Canada,Banks
+,,Susans,Lost,8/25/2017,New,1000,United States,Banks
+,,Susans,Lost,9/30/2017,New,1000,United States,Banks
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Banks
+,,Susans,Lost,6/30/2018,New,1000,United States,Banks
+,,Tom,Lost,12/30/2016,Upsell,1000,United States,Banks
+,,Tom,Lost,3/31/2017,New,1000,Singapore,Banks
+,,Sammy,Won,3/31/2017,Upsell,20000,Turkey,Banks
+,,Sammy,Proposal,3/31/2021,Renewal,20000,Turkey,Banks
+,,Sammy,Won,3/31/2017,Upsell,40000,Turkey,Banks
+Cloud B,Partner,Sammy,Lost,4/30/2019,New,40000,Italy,Banks
+Cloud B,,Alex,Won,3/6/2020,New,40000,India,Banks
+Cloud B,,Alex,Lost,3/5/2021,Renewal,40000,India,Banks
+Cloud A,Web,Steve,Lost,12/11/2020,New,50000,United Kingdom,Banks
+,Partner,Paul,Validation,9/30/2022,New,75000,Poland,Banks
+,,Susans,Lost,6/30/2016,Upsell,75000,Turkey,Banks
+,,Sammy,Won,3/31/2017,Upsell,80000,Chile,Banks
+,Partner,Alex,Lost,3/4/2021,New,90000,India,Banks
+,,Sammy,Proposal,3/31/2021,Renewal,100000,Turkey,Banks
+,,Sammy,Won,3/30/2018,Upsell,100000,Turkey,Banks
+,,Susans,Lost,10/2/2015,Upsell,100000,United States,Banks
+,,Sammy,Won,3/31/2015,Upsell,200000,Turkey,Banks
+On-Premise,Web,Alex,Lost,10/8/2020,New,200000,Kazakhstan,Banks
+Cloud B,Web,Susans,Lost,6/30/2020,New,50000,France,Beverages
+Cloud C,,Steve,Lost,8/21/2020,New,80000,United States,Beverages
+,Web,Susans,Lost,10/7/2019,New,100000,United States,Beverages
+,Web,Charlie,Lost,11/12/2021,New,1000,United States,Biotechnology
+,,Susans,Lost,5/5/2017,New,1000,United States,Biotechnology
+,,Susans,Lost,8/31/2018,Upsell,1000,United States,Biotechnology
+,,Susans,Lost,6/29/2018,New,1000,United States,Biotechnology
+Cloud A,Web,Tom,Lost,3/31/2020,New,50000,United States,Biotechnology
+On-Premise,Web,Dave,Lost,2/28/2020,New,50000,United States,Biotechnology
+,Web,Sammy,Proposal,6/30/2022,New,75000,United Kingdom,Biotechnology
+,Web,Amy,Qualification,12/30/2022,New,80000,United States,Biotechnology
+,,Susans,Won,12/28/2017,New,90000,United States,Biotechnology
+Cloud B,,Paul,Lost,9/30/2019,New,100000,United States,Biotechnology
+,,Susans,Lost,7/31/2015,Upsell,100000,United States,Biotechnology
+Cloud A,Web,Craig,Lost,9/7/2021,New,150000,United States,Biotechnology
+,Web,Mary,Lost,7/28/2022,New,1000,United States,Biotechnology
+,,Steve,Lost,3/30/2018,Upsell,1000,Sweden,Biotechnology
+,,Tom,Lost,12/31/2016,New,1000,United States,Biotechnology
+,Web,Amy,Validation,8/26/2022,New,50000,Canada,Biotechnology
+,Web,Larry,Meeting,6/8/2022,New,100000,United States,Biotechnology
+,Web,Greg,Lost,12/31/2021,New,1000,United States,Finance
+,,Susans,Lost,12/30/2016,New,1000,Japan,Finance
+,,Susans,Lost,5/10/2018,New,1000,United States,Finance
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Finance
+,,Susans,Lost,4/12/2018,New,1000,United States,Finance
+,Web,Tom,Requalify,3/30/2022,New,1000,United States,Finance
+,,Sammy,Won,12/31/2013,Upsell,40000,Turkey,Finance
+,,Steve,Lost,11/27/2020,New,40000,United States,Finance
+,Web,Sammy,Lost,4/28/2022,New,75000,United States,Finance
+,,Sammy,Lost,6/29/2018,New,100000,Brazil,Finance
+,,Alex,Lost,10/6/2021,New,1000,Thailand,Finance
+Cloud B,,Steve,Lost,12/11/2020,New,40000,United States,Finance
+,Web,Nancy,Meeting,9/30/2022,New,200000,France,Finance
+Cloud A,Web,Paul,Lost,7/22/2021,New,1000,United States,Finance
+Cloud B,,Steve,Lost,8/20/2020,New,80000,United States,Finance
+,Web,Charlie,Lost,11/12/2021,New,1000,United States,Finance
+,Web,Charlie,Requalify,7/6/2021,New,1000,United States,Finance
+,,Susans,Lost,9/30/2016,Upsell,1000,United States,Finance
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Finance
+,,Susans,Lost,9/25/2015,Upsell,1000,United States,Finance
+,,Susans,Lost,12/31/2016,New,1000,United States,Finance
+,,Susans,Lost,6/30/2016,Upsell,1000,Brazil,Finance
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Finance
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Finance
+,,Susans,Lost,12/31/2016,New,1000,United States,Finance
+,,Susans,Lost,3/26/2018,New,1000,United States,Finance
+,,Susans,Lost,8/24/2018,Upsell,1000,United States,Finance
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Finance
+,,Tom,Lost,6/30/2017,New,1000,Tunisia,Finance
+Cloud C,,Tom,Won,1/7/2021,New,1000,France,Finance
+,,Susans,Lost,2/28/2018,New,20000,United States,Finance
+Cloud C,,Larry,Won,1/7/2022,Renewal,40000,France,Finance
+Cloud C,,Larry,Proposal,1/6/2023,Renewal,40000,France,Finance
+,,Susans,Lost,12/29/2017,New,50000,United States,Finance
+,Web,Joe,Validation,6/30/2022,New,75000,United Kingdom,Finance
+,Web,Nancy,Meeting,6/30/2022,New,75000,United Kingdom,Finance
+On-Premise,,Paul,Lost,3/29/2019,Upsell,75000,United States,Finance
+,,Susans,Lost,11/6/2015,Upsell,80000,United States,Finance
+,Web,Dave,Requalify,3/18/2022,New,90000,United States,Finance
+,,Susans,Lost,9/15/2014,Upsell,100000,United States,Finance
+,,Susans,Lost,6/30/2015,Upsell,100000,United States,Finance
+,,Susans,Lost,3/31/2016,Upsell,100000,United States,Finance
+,,Susans,Lost,9/30/2016,Upsell,100000,United States,Finance
+,,Susans,Lost,5/31/2016,,100000,United States,Finance
+On-Premise,,Susans,Lost,7/31/2018,New,100000,United States,Finance
+,Web,Mary,Validation,3/31/2022,New,200000,United States,Finance
+,Web,Mary,Meeting,3/31/2022,,200000,United States,Finance
+Cloud C,Partner,Dave,Lost,4/12/2021,New,1000,Finland,Finance
+,Web,Mary,Meeting,6/30/2023,New,1000,United States,Finance
+Cloud B,,Paul,Lost,12/31/2018,New,1000,United States,Finance
+,,Paul,Lost,12/28/2018,New,1000,United States,Finance
+On-Premise,,Sammy,Lost,9/27/2018,New,1000,Germany,Finance
+,Web,Steve,Lost,11/19/2021,New,1000,Canada,Finance
+Cloud A,,Steve,Lost,12/2/2020,Renewal,1000,Germany,Finance
+,Partner,Susans,Lost,12/31/2016,New,1000,United States,Finance
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Finance
+,,Susans,Lost,3/30/2018,Upsell,1000,United States,Finance
+,,Tom,Lost,3/31/2017,New,1000,Finland,Finance
+Cloud B,,Steve,Lost,4/15/2020,Renewal,40000,Germany,Finance
+On-Premise,,Steve,Lost,11/27/2020,New,50000,Germany,Finance
+,Web,Amy,Meeting,7/29/2022,New,50000,United States,Finance
+Cloud A,,Steve,Won,12/30/2019,Upsell,50000,Germany,Finance
+Cloud B,,Steve,Won,4/15/2019,New,50000,Germany,Finance
+,,Susans,Lost,12/29/2017,Upsell,80000,United States,Finance
+Cloud B,Partner,Susans,Requalify,9/30/2019,New,100000,United States,Finance
+,Web,Alex,Requalify,10/31/2021,New,1000,Hong Kong,Consumer
+Cloud B,Web,Alex,Lost,8/6/2021,New,1000,Singapore,Consumer
+Cloud C,Partner,Steve,Lost,6/21/2019,New,1000,Canada,Consumer
+,,Susans,Won,12/31/2014,Upsell,20000,United States,Consumer
+,,Susans,Lost,3/17/2017,Upsell,20000,Japan,Consumer
+,Web,Sammy,Lost,4/30/2019,New,40000,United Kingdom,Consumer
+,Partner,Susans,Lost,3/31/2016,Upsell,40000,United States,Consumer
+,Partner,Susans,Lost,8/31/2015,Upsell,50000,United States,Consumer
+,Partner,Susans,Lost,10/4/2015,Upsell,50000,United States,Consumer
+,Partner,Susans,Lost,8/31/2015,Upsell,50000,United States,Consumer
+,,Susans,Lost,6/29/2018,Upsell,50000,United States,Consumer
+Cloud C,Web,Joe,Qualification,9/30/2022,New,50000,United States,Consumer
+On-Premise,Partner,Paul,Requalify,7/29/2022,New,75000,United States,Consumer
+,,Susans,Lost,6/30/2015,Upsell,75000,United States,Consumer
+Cloud B,,Dave,Lost,4/30/2020,New,80000,United States,Consumer
+Cloud C,Web,Paul,Won,2/15/2022,New,90000,United States,Consumer
+Cloud C,,Paul,Proposal,9/23/2022,Upsell,100000,United States,Consumer
+,,Susans,Lost,5/29/2015,Upsell,100000,United States,Consumer
+Cloud C,Partner,Tom,Requalify,1/30/2020,New,100000,Brazil,Consumer
+Cloud C,,Paul,Proposal,2/14/2023,Renewal,150000,United States,Consumer
+,,Susans,Lost,9/30/2020,New,150000,United States,Consumer
+Cloud C,Partner,Paul,Requalify,8/26/2022,New,1000,United States,Consumer
+On-Premise,Web,Steve,Won,12/4/2020,Renewal,1000,United States,Consumer
+,,Susans,Lost,3/30/2017,Upsell,1000,United States,Consumer
+,,Susans,Lost,4/27/2018,New,1000,United States,Consumer
+On-Premise,Web,Steve,Won,12/10/2019,Renewal,40000,United States,Consumer
+On-Premise,Web,Nancy,Proposal,12/9/2022,Renewal,40000,United States,Consumer
+On-Premise,Web,Steve,Won,11/12/2021,Renewal,40000,United States,Consumer
+On-Premise,Web,Susans,Won,11/29/2018,New,50000,United States,Consumer
+,,Susans,Won,6/29/2017,New,50000,United States,Consumer
+Cloud C,Web,Paul,Lost,9/15/2021,New,150000,France,Consumer
+,,Sammy,Lost,6/28/2018,New,1000,Germany,Consumer
+,,Susans,Lost,12/23/2016,Upsell,1000,United States,Consumer
+Cloud B,Partner,Susans,Lost,8/12/2018,New,1000,United States,Consumer
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Consumer
+,,Susans,Lost,8/31/2018,New,1000,United States,Consumer
+Cloud A,,Alex,Proposal,3/5/2022,Renewal,20000,India,Consumer
+Cloud A,,Alex,Won,9/12/2019,New,40000,India,Consumer
+Cloud B,Web,Tom,Requalify,5/29/2020,New,40000,Israel,Consumer
+Cloud B,,Alex,Won,5/14/2021,Renewal,40000,India,Consumer
+Cloud B,,Alex,Won,12/4/2020,Renewal,40000,India,Consumer
+Cloud A,,Alex,Won,6/30/2020,Upsell,50000,India,Consumer
+Cloud A,,Alex,Won,12/8/2020,Upsell,50000,India,Consumer
+Cloud A,,Alex,Won,12/27/2021,Renewal,50000,India,Consumer
+Cloud B,Partner,Steve,Lost,7/24/2020,New,50000,United States,Consumer
+Cloud B,,Steve,Lost,6/30/2019,New,50000,United States,Consumer
+,Partner,Susans,Lost,9/30/2020,New,50000,United States,Consumer
+,,Sammy,Lost,6/30/2017,New,75000,Mexico,Consumer
+Cloud B,Web,Susans,Lost,9/30/2020,New,80000,United States,Consumer
+,,Alex,Proposal,3/15/2022,Upsell,80000,India,Consumer
+,Web,Greg,Lost,3/31/2022,New,100000,Israel,Consumer
+Cloud C,Web,Dave,Lost,4/1/2022,New,1000,Austria,Consumer
+,,Susans,Lost,5/25/2018,Upsell,1000,United States,Consumer
+,Partner,Paul,Meeting,9/30/2022,New,50000,Switzerland,Consumer
+,,Susans,Lost,2/22/2019,New,80000,United States,Consumer
+Cloud B,,Dave,Lost,4/30/2020,New,80000,United States,Consumer
+,Partner,Larry,Won,2/16/2022,Upsell,50000,Netherlands,Distributors
+Cloud C,Partner,Dave,Won,1/14/2021,New,80000,Netherlands,Distributors
+Cloud C,Partner,Dave,Won,12/17/2021,Renewal,80000,Netherlands,Distributors
+Cloud C,Partner,Larry,Proposal,1/13/2023,Renewal,80000,Netherlands,Distributors
+Cloud B,Web,Dave,Lost,4/30/2020,New,80000,Canada,Distributors
+Cloud B,,Paul,Requalify,12/31/2018,New,1000,Canada,Distributors
+,Web,Steve,Lost,11/19/2021,New,1000,Ireland,Distributors
+,,Susans,Lost,6/30/2018,New,1000,United States,Distributors
+,Partner,Susans,Requalify,9/29/2016,Partnership,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,Upsell,1000,United States,Distributors
+On-Premise,,Tom,Lost,12/31/2018,New,1000,United States,Distributors
+On-Premise,Web,Steve,Lost,11/5/2020,New,40000,Canada,Distributors
+,,Susans,Lost,1/31/2017,Upsell,50000,Canada,Distributors
+,,Susans,Lost,11/30/2017,New,75000,United States,Distributors
+Cloud B,,Susans,Requalify,11/14/2019,Upsell,80000,United States,Distributors
+Cloud A,,Dave,Lost,7/31/2020,New,150000,United States,Distributors
+On-Premise,,Susans,Lost,6/30/2016,Upsell,200000,United States,Distributors
+On-Premise,Web,Alex,Lost,1/30/2021,New,1000,Australia,Distributors
+Cloud C,Web,Alex,Won,2/26/2021,New,1000,India,Distributors
+,,Charlie,Lost,1/16/2021,New,1000,United States,Distributors
+,,Charlie,Lost,2/20/2021,New,1000,United States,Distributors
+,Web,Craig,Meeting,6/28/2022,New,1000,United States,Distributors
+,,Dave,Lost,6/12/2018,New,1000,United States,Distributors
+On-Premise,Web,Dave,Lost,4/1/2022,New,1000,Germany,Distributors
+,Web,Dave,Lost,10/1/2021,New,1000,Germany,Distributors
+On-Premise,Partner,Dave,Lost,1/21/2022,New,1000,Spain,Distributors
+,Web,Greg,Requalify,7/16/2021,New,1000,United States,Distributors
+,Web,Greg,Requalify,7/16/2021,New,1000,United States,Distributors
+,Web,Greg,Lost,12/31/2021,New,1000,United States,Distributors
+,Web,Greg,Requalify,7/16/2021,New,1000,United States,Distributors
+On-Premise,,Greg,Requalify,5/28/2021,New,1000,United States,Distributors
+,Web,Joe,Requalify,5/7/2021,New,1000,United States,Distributors
+,Web,Larry,Lost,12/31/2021,New,1000,France,Distributors
+,Event,Paul,Lost,3/3/2021,New,1000,United States,Distributors
+,,Paul,Lost,12/31/2018,New,1000,United States,Distributors
+,,Paul,Lost,6/29/2018,New,1000,United States,Distributors
+Cloud B,Web,Sammy,Lost,6/30/2019,New,1000,Australia,Distributors
+,,Sammy,Lost,12/14/2018,New,1000,Germany,Distributors
+,,Steve,Lost,3/30/2018,New,1000,Canada,Distributors
+,,Steve,Lost,12/28/2017,New,1000,United States,Distributors
+,Web,Steve,Lost,9/17/2021,New,1000,United Kingdom,Distributors
+Cloud B,Partner,Steve,Won,6/30/2021,New,1000,United States,Distributors
+Cloud C,Partner,Steve,Requalify,3/19/2021,Upsell,1000,United Kingdom,Distributors
+Cloud C,,Steve,Lost,1/15/2021,Renewal,1000,United Kingdom,Distributors
+On-Premise,,Steve,Lost,9/24/2021,New,1000,Switzerland,Distributors
+,Web,Steve,Lost,12/31/2021,New,1000,United Kingdom,Distributors
+,Web,Steve,Requalify,3/18/2022,New,1000,United States,Distributors
+Cloud A,,Steve,Lost,6/25/2021,New,1000,United States,Distributors
+Cloud B,,Steve,Lost,8/27/2021,New,1000,Canada,Distributors
+Cloud B,,Steve,Lost,1/4/2021,New,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,11/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/15/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,Partner,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,3/30/2018,New,1000,Switzerland,Distributors
+,,Susans,Lost,4/30/2018,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/29/2017,Upsell,1000,United States,Distributors
+On-Premise,,Susans,Lost,9/30/2017,Upsell,1000,Canada,Distributors
+,,Susans,Lost,12/15/2017,New,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,3/30/2018,New,1000,United States,Distributors
+On-Premise,,Susans,Lost,7/31/2018,New,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,New,1000,Switzerland,Distributors
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,6/29/2018,New,1000,United States,Distributors
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/23/2016,New,1000,United States,Distributors
+,,Susans,Lost,9/28/2018,New,1000,United States,Distributors
+,Partner,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2017,New,1000,United Kingdom,Distributors
+,Partner,Susans,Lost,12/29/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,3/31/2014,,1000,United States,Distributors
+On-Premise,,Susans,Lost,3/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2017,New,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,8/23/2018,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+,Web,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+On-Premise,,Susans,Lost,9/28/2018,New,1000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,Canada,Distributors
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Distributors
+,Partner,Susans,Lost,12/29/2016,Upsell,1000,United States,Distributors
+,Partner,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/31/2018,New,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,12/22/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/22/2017,Upsell,1000,United States,Distributors
+Cloud B,Partner,Susans,Lost,11/30/2018,New,1000,United States,Distributors
+,,Susans,Lost,3/23/2018,New,1000,United States,Distributors
+,,Susans,Lost,12/15/2017,New,1000,United States,Distributors
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Distributors
+On-Premise,,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,12/31/2016,New,1000,United States,Distributors
+,Partner,Tom,Requalify,12/28/2021,Upsell,1000,Colombia,Distributors
+,,Tom,Lost,6/30/2014,,1000,United States,Distributors
+,,Tom,Lost,11/30/2016,Upsell,1000,United States,Distributors
+,,Tom,Lost,3/31/2015,,1000,United States,Distributors
+,Web,Tom,Requalify,3/31/2022,New,1000,France,Distributors
+,Web,Tom,Requalify,1/15/2021,New,1000,United States,Distributors
+,Partner,Tom,Requalify,12/31/2021,New,1000,Germany,Distributors
+Cloud C,Partner,Tom,Won,12/15/2020,Renewal,1000,Colombia,Distributors
+On-Premise,Partner,Tom,Won,8/19/2020,Upsell,1000,Colombia,Distributors
+On-Premise,Web,Tom,Requalify,5/4/2021,New,1000,United States,Distributors
+,,Tom,Lost,6/30/2016,,1000,United States,Distributors
+,,Tom,Lost,9/29/2017,New,1000,Netherlands,Distributors
+Cloud A,Web,Tom,Lost,3/1/2021,New,1000,Canada,Distributors
+On-Premise,Partner,Tom,Won,8/5/2021,Renewal,1000,Colombia,Distributors
+,,Tom,Lost,12/30/2016,Upsell,1000,United States,Distributors
+Cloud C,Partner,Tom,Won,5/7/2020,Upsell,10000,Colombia,Distributors
+Cloud C,Partner,Craig,Proposal,4/30/2022,Renewal,20000,Colombia,Distributors
+Cloud C,Partner,Tom,Won,5/7/2021,Renewal,20000,Colombia,Distributors
+,,Susans,Lost,12/31/2016,New,20000,Turkey,Distributors
+Cloud C,Web,Alex,Won,2/25/2022,Renewal,20000,India,Distributors
+Cloud C,Web,Alex,Proposal,3/21/2023,Renewal,20000,India,Distributors
+Cloud C,Partner,Tom,Won,11/15/2019,New,20000,Colombia,Distributors
+Cloud A,Web,Tom,Lost,1/24/2020,New,20000,United States,Distributors
+,,Nancy,Proposal,6/30/2023,Renewal,20000,United States,Distributors
+,Partner,Steve,Won,10/25/2021,Upsell,20000,United States,Distributors
+Cloud B,Web,Alex,Won,11/25/2019,New,40000,India,Distributors
+Cloud B,Web,Alex,Lost,12/4/2020,Renewal,40000,India,Distributors
+Cloud B,Web,Alex,Lost,6/30/2020,New,40000,India,Distributors
+Cloud C,Partner,Tom,Won,12/13/2021,Renewal,40000,Colombia,Distributors
+Cloud C,Web,Craig,Proposal,12/26/2022,Renewal,40000,Colombia,Distributors
+Cloud C,Web,Alex,Lost,9/29/2020,New,40000,Malaysia,Distributors
+Cloud A,,Alex,Lost,2/25/2022,New,40000,India,Distributors
+Cloud B,Web,Alex,Requalify,11/30/2020,New,40000,India,Distributors
+On-Premise,Partner,Craig,Proposal,8/20/2022,Renewal,40000,Colombia,Distributors
+Cloud B,,Steve,Lost,12/18/2020,New,40000,Switzerland,Distributors
+,,Steve,Lost,6/26/2020,New,40000,United States,Distributors
+On-Premise,Web,Dave,Lost,4/1/2022,New,50000,Netherlands,Distributors
+On-Premise,Web,Steve,Lost,12/18/2020,New,50000,United States,Distributors
+On-Premise,,Tom,Requalify,9/17/2020,New,50000,United Arab Emirates,Distributors
+Cloud B,,Tom,Requalify,10/30/2020,New,50000,Nigeria,Distributors
+,Web,Amy,Lost,6/30/2022,New,50000,United States,Distributors
+Cloud B,,Paul,Lost,12/30/2021,New,50000,United States,Distributors
+On-Premise,,Dave,Lost,10/30/2020,New,75000,United States,Distributors
+Cloud A,,Dave,Lost,8/28/2020,New,75000,United States,Distributors
+On-Premise,Web,Alex,Lost,3/31/2019,New,75000,India,Distributors
+Cloud B,,Steve,Lost,4/19/2019,New,75000,United States,Distributors
+Cloud A,,Steve,Lost,9/11/2020,New,80000,Germany,Distributors
+Cloud B,,Steve,Lost,12/13/2019,New,80000,Canada,Distributors
+On-Premise,Web,Dave,Requalify,2/11/2022,New,90000,Switzerland,Distributors
+,Web,Paul,Validation,9/30/2022,New,90000,Germany,Distributors
+,,Joe,Meeting,6/15/2022,New,100000,United States,Distributors
+Cloud B,Partner,Paul,Validation,8/26/2022,New,100000,United States,Distributors
+,Web,Steve,Lost,1/31/2022,New,100000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,100000,United States,Distributors
+On-Premise,,Susans,Lost,12/23/2019,New,100000,United States,Distributors
+,,Susans,Lost,3/31/2016,Upsell,100000,United States,Distributors
+,Web,Susans,Lost,10/16/2015,Upsell,100000,United States,Distributors
+,,Susans,Lost,11/8/2014,Upsell,100000,United States,Distributors
+,Web,Susans,Lost,7/31/2015,,100000,United States,Distributors
+,,Susans,Lost,6/26/2018,New,100000,United States,Distributors
+,,Susans,Lost,1/12/2016,Upsell,100000,United States,Distributors
+,,Susans,Lost,12/30/2016,Upsell,100000,United States,Distributors
+,,Susans,Lost,3/19/2018,New,100000,United States,Distributors
+Cloud B,Web,Tom,Requalify,5/31/2022,New,100000,United States,Distributors
+,Web,Tom,Lost,5/15/2020,New,100000,United States,Distributors
+Cloud A,,Dave,Lost,6/26/2020,New,100000,United States,Distributors
+Cloud B,,Steve,Lost,11/27/2020,New,100000,United States,Distributors
+,Web,Dave,Requalify,7/1/2022,New,100000,United States,Distributors
+,,Susans,Lost,6/30/2015,,100000,United States,Distributors
+,,Craig,Qualification,5/16/2022,New,150000,United States,Distributors
+Cloud A,Web,Dave,Lost,4/16/2021,New,150000,Netherlands,Distributors
+,,Susans,Lost,12/15/2015,Upsell,150000,United States,Distributors
+On-Premise,,Susans,Lost,9/30/2016,Upsell,150000,United States,Distributors
+On-Premise,,Susans,Lost,6/30/2016,Upsell,150000,United States,Distributors
+On-Premise,,Greg,Validation,6/30/2022,New,150000,United States,Distributors
+,,Susans,Lost,4/4/2016,Upsell,150000,Brazil,Distributors
+Cloud A,Web,Mary,Lost,3/16/2022,New,150000,United States,Distributors
+,,Steve,Lost,9/18/2020,New,150000,Canada,Distributors
+,,Susans,Lost,12/30/2016,Upsell,150000,United States,Distributors
+,Partner,Craig,Validation,5/31/2022,New,200000,Mexico,Distributors
+,,Joe,Meeting,9/21/2022,New,200000,United States,Distributors
+Cloud C,Partner,Joe,Qualification,10/19/2023,New,200000,United States,Distributors
+,Web,Susans,Lost,12/31/2015,Upsell,200000,United States,Distributors
+,Web,Susans,Lost,10/23/2015,Upsell,200000,United States,Distributors
+Cloud C,Partner,Susans,Won,10/31/2019,New,200000,United Kingdom,Distributors
+On-Premise,,Sammy,Won,6/29/2018,Upsell,200000,Turkey,Distributors
+,,Susans,Lost,3/27/2015,Upsell,200000,United States,Distributors
+Cloud B,Partner,Nancy,Proposal,6/30/2022,Renewal,200000,United States,Distributors
+,,Susans,Lost,10/17/2018,New,200000,United States,Distributors
+,Web,Alex,Meeting,4/30/2021,New,1000,Australia,Distributors
+Cloud A,,Dave,Lost,6/30/2020,New,1000,United States,Distributors
+Cloud C,Partner,Dave,Lost,1/21/2022,New,1000,Italy,Distributors
+,,Dave,Lost,1/21/2022,New,1000,United States,Distributors
+,Web,Dave,Lost,3/24/2021,New,1000,Portugal,Distributors
+,Web,Dave,Lost,10/4/2021,New,1000,Spain,Distributors
+,Partner,Fred,Lost,3/2/2021,Partnership,1000,United States,Distributors
+On-Premise,Web,Greg,Lost,8/2/2021,New,1000,United States,Distributors
+,,Paul,Lost,3/31/2017,New,1000,United States,Distributors
+,,Steve,Lost,12/15/2017,Upsell,1000,United States,Distributors
+Cloud C,Web,Steve,Requalify,3/19/2021,New,1000,Canada,Distributors
+,,Steve,Lost,12/29/2017,New,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,4/12/2018,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,3/31/2016,Renewal,1000,United States,Distributors
+,,Susans,Lost,12/22/2017,Upsell,1000,United States,Distributors
+On-Premise,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,9/29/2017,Upsell,1000,United States,Distributors
+,,Susans,Lost,3/2/2015,Upsell,1000,Brazil,Distributors
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Distributors
+Cloud A,Web,Tom,Lost,2/2/2021,New,1000,Chile,Distributors
+On-Premise,Web,Tom,Won,7/10/2020,Renewal,1000,United States,Distributors
+On-Premise,Event,Tom,Requalify,3/31/2021,New,1000,Russia,Distributors
+,Partner,Tom,Won,2/23/2021,Renewal,1000,France,Distributors
+,,Tom,Lost,12/31/2018,New,1000,United States,Distributors
+,Web,Tom,Lost,9/29/2017,New,1000,Singapore,Distributors
+Cloud C,Partner,Tom,Lost,3/13/2021,New,1000,France,Distributors
+On-Premise,Web,Tom,Won,6/14/2021,Upsell,1000,United States,Distributors
+,Web,Tom,Won,11/3/2020,New,1000,Mauritius,Distributors
+,,Steve,Lost,2/29/2020,Renewal,8000,United States,Distributors
+,,Susans,Won,3/29/2018,Renewal,8000,United States,Distributors
+,,Susans,Won,2/22/2017,Renewal,8000,United States,Distributors
+,,Susans,Won,2/9/2016,Renewal,8000,United States,Distributors
+,,Susans,Lost,9/30/2015,Upsell,20000,United States,Distributors
+Cloud A,,Dave,Lost,6/19/2020,New,20000,United States,Distributors
+Cloud A,,Sammy,Lost,6/1/2019,New,40000,Sweden,Distributors
+,,Susans,Lost,8/31/2016,Upsell,40000,Spain,Distributors
+,,Susans,Lost,9/30/2015,Upsell,40000,United States,Distributors
+,,Susans,Won,2/27/2015,Upsell,50000,United States,Distributors
+,,Susans,Lost,6/30/2015,Upsell,50000,United States,Distributors
+,,Susans,Lost,9/30/2015,Upsell,50000,United States,Distributors
+,,Sammy,Won,3/31/2017,Upsell,50000,France,Distributors
+,Partner,Tom,Won,4/17/2020,Renewal,50000,France,Distributors
+On-Premise,,Tom,Won,4/23/2020,Upsell,50000,France,Distributors
+,Partner,Sammy,Won,3/20/2019,Renewal,50000,France,Distributors
+On-Premise,Web,Tom,Won,7/3/2019,New,50000,United States,Distributors
+On-Premise,Web,Tom,Won,6/23/2021,Renewal,50000,United States,Distributors
+,,Sammy,Won,3/29/2018,Renewal,50000,France,Distributors
+On-Premise,Web,Larry,Proposal,7/2/2022,Renewal,75000,United States,Distributors
+On-Premise,Web,Alex,Proposal,12/16/2022,Renewal,75000,India,Distributors
+On-Premise,Web,Alex,Won,11/30/2019,New,75000,India,Distributors
+On-Premise,Web,Alex,Won,12/22/2020,Renewal,75000,India,Distributors
+On-Premise,Web,Alex,Won,12/18/2021,Renewal,75000,India,Distributors
+,,Susans,Lost,8/31/2016,Upsell,75000,Brazil,Distributors
+,,Susans,Lost,6/28/2019,New,75000,United States,Distributors
+,,Susans,Lost,10/2/2015,Upsell,80000,United States,Distributors
+,Web,Greg,Proposal,11/10/2022,Renewal,80000,Mauritius,Distributors
+,Web,Tom,Won,10/27/2021,Renewal,80000,Mauritius,Distributors
+Cloud A,Web,Alex,Validation,8/25/2022,New,90000,Australia,Distributors
+On-Premise,Web,Alex,Lost,8/28/2020,New,90000,India,Distributors
+,,Dave,Lost,9/30/2020,New,100000,Netherlands,Distributors
+,,Susans,Lost,6/30/2016,Upsell,100000,United States,Distributors
+,,Susans,Lost,12/14/2015,Upsell,100000,United States,Distributors
+,,Tom,Lost,12/29/2017,New,100000,United States,Distributors
+,,Tom,Lost,9/30/2015,Upsell,100000,United States,Distributors
+Cloud C,,Greg,Proposal,12/16/2022,Renewal,100000,United Kingdom,Distributors
+Cloud C,,Steve,Won,12/17/2021,New,100000,United Kingdom,Distributors
+,Partner,Larry,Proposal,3/31/2022,Renewal,100000,France,Distributors
+,Partner,Alex,Qualification,6/27/2022,New,100000,Singapore,Distributors
+,,Susans,Lost,6/30/2016,Upsell,100000,United States,Distributors
+,,Tom,Lost,3/15/2019,New,150000,United States,Distributors
+,,Susans,Lost,4/18/2014,Upsell,150000,United States,Distributors
+,,Susans,Lost,9/30/2015,Upsell,150000,United States,Distributors
+Cloud C,,Larry,Proposal,6/15/2023,Renewal,150000,United Kingdom,Distributors
+Cloud C,Partner,Steve,Won,12/8/2021,New,150000,United Kingdom,Distributors
+,,Susans,Lost,4/30/2019,New,150000,Canada,Distributors
+,,Susans,Lost,9/25/2015,Upsell,150000,United States,Distributors
+,,Susans,Lost,12/18/2015,Upsell,200000,United States,Distributors
+On-Premise,Web,Alex,Proposal,5/31/2022,Renewal,200000,India,Distributors
+On-Premise,Web,Alex,Won,5/28/2021,Upsell,200000,India,Distributors
+,,Nancy,Meeting,10/28/2022,New,200000,United States,Distributors
+,Partner,Craig,Meeting,5/31/2022,New,200000,Spain,Distributors
+,Partner,Fred,Meeting,8/31/2022,New,200000,United States,Distributors
+Cloud B,Web,Craig,Requalify,1/31/2022,New,1000,Brazil,Distributors
+,Web,Dave,Lost,7/1/2021,New,1000,Germany,Distributors
+On-Premise,Web,Dave,Lost,4/1/2022,New,1000,United States,Distributors
+,Event,Dave,Lost,4/1/2022,New,1000,United States,Distributors
+,,Paul,Lost,7/31/2021,New,1000,United States,Distributors
+,Partner,Steve,Lost,6/25/2021,New,1000,United States,Distributors
+,Web,Steve,Lost,3/1/2021,New,1000,United States,Distributors
+,Web,Steve,Lost,11/30/2021,New,1000,United States,Distributors
+,,Susans,Lost,12/20/2017,Upsell,1000,United States,Distributors
+,Partner,Susans,Lost,12/31/2016,Upsell,1000,United States,Distributors
+,,Susans,Lost,2/19/2018,New,1000,United States,Distributors
+Cloud B,,Susans,Lost,12/31/2018,New,1000,United States,Distributors
+Cloud C,Web,Tom,Lost,10/30/2020,Renewal,1000,United States,Distributors
+,Web,Tom,Lost,6/30/2021,New,1000,Canada,Distributors
+Cloud B,Web,Tom,Lost,10/29/2020,New,1000,United States,Distributors
+,,Susans,Lost,1/31/2017,Upsell,20000,United States,Distributors
+On-Premise,,Susans,Won,8/8/2017,New,40000,United States,Distributors
+Cloud B,Web,Steve,Lost,1/29/2021,New,40000,United Kingdom,Distributors
+Cloud A,Web,Tom,Requalify,10/30/2020,New,50000,United States,Distributors
+Cloud C,Web,Tom,Won,1/31/2020,New,50000,United States,Distributors
+,Partner,Steve,Lost,6/19/2020,New,80000,United States,Distributors
+Cloud C,,Tom,Lost,6/30/2020,New,100000,United States,Distributors
+,,Susans,Lost,12/31/2018,New,100000,United States,Distributors
+Cloud C,Partner,Paul,Won,4/29/2021,New,200000,United States,Distributors
+Cloud C,Partner,Paul,Proposal,4/30/2022,Renewal,200000,United States,Distributors
+,Web,Larry,Meeting,3/31/2022,New,200000,United States,Distributors
+,Web,Mike,Meeting,3/31/2022,New,200000,United States,Distributors
+Cloud B,Web,Sammy,Lost,2/28/2019,New,1000,New Zealand,Distributors
+Cloud B,Web,Steve,Won,9/30/2021,New,1000,United Kingdom,Distributors
+,,Susans,Lost,6/30/2016,Upsell,20000,United States,Utilities
+Cloud B,Web,Mary,Qualification,9/30/2022,New,75000,United States,Utilities
+Cloud B,Web,Nancy,Proposal,10/11/2022,Renewal,75000,United Kingdom,Utilities
+,Web,Dave,Lost,4/1/2022,New,1000,Switzerland,Utilities
+,Web,Dave,Lost,9/22/2021,New,1000,Netherlands,Utilities
+,,Paul,Lost,7/24/2018,New,1000,United States,Utilities
+,Web,Paul,Requalify,2/28/2022,New,1000,United States,Utilities
+,Partner,Paul,Requalify,3/30/2022,New,1000,Canada,Utilities
+,Web,Steve,Lost,12/24/2021,New,1000,United Kingdom,Utilities
+,,Susans,Lost,9/29/2017,New,1000,United States,Utilities
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Utilities
+,,Susans,Lost,3/30/2018,New,1000,United States,Utilities
+,Partner,Susans,Lost,5/10/2018,Upsell,1000,United States,Utilities
+Cloud B,Partner,Nancy,Proposal,3/31/2022,New,10000,United States,Utilities
+,,Susans,Won,12/30/2015,Upsell,20000,United States,Utilities
+Cloud A,Web,Steve,Lost,10/25/2019,New,40000,United States,Utilities
+,,Steve,Lost,12/18/2020,New,40000,United States,Utilities
+Cloud B,Partner,Steve,Lost,9/24/2020,New,40000,United States,Utilities
+,,Susans,Lost,9/30/2020,New,75000,United States,Utilities
+,Partner,Larry,Meeting,5/18/2022,New,75000,Canada,Utilities
+Cloud A,Partner,Dave,Lost,1/22/2021,New,150000,Switzerland,Utilities
+,Partner,Nancy,Meeting,5/31/2022,New,150000,United States,Utilities
+,Partner,Nancy,Meeting,9/30/2022,New,150000,United States,Utilities
+Cloud A,,Susans,Lost,12/14/2018,New,150000,United States,Utilities
+On-Premise,Web,Dave,Won,9/22/2021,New,150000,United States,Utilities
+On-Premise,Web,Larry,Proposal,9/22/2022,Renewal,150000,United States,Utilities
+Cloud A,Web,Susans,Lost,2/28/2020,New,200000,Germany,Utilities
+Cloud A,,Dave,Lost,9/20/2018,New,1000,United States,Utilities
+,,Paul,Lost,6/30/2017,New,1000,United States,Utilities
+Cloud B,Partner,Steve,Lost,1/22/2021,New,1000,United States,Utilities
+,,Steve,Lost,7/17/2019,New,1000,United States,Utilities
+,,Susans,Lost,7/15/2018,New,1000,Thailand,Utilities
+,,Susans,Lost,8/31/2017,Upsell,1000,United States,Utilities
+Cloud B,Web,Tom,Lost,11/26/2020,New,1000,Egypt,Utilities
+On-Premise,Web,Tom,Requalify,5/31/2021,New,1000,United States,Utilities
+Cloud B,Web,Tom,Requalify,3/1/2021,New,1000,United States,Utilities
+Cloud C,Web,Tom,Lost,9/30/2019,New,20000,United States,Utilities
+Cloud A,Web,Charlie,Lost,9/16/2020,New,50000,United States,Utilities
+Cloud C,Partner,Fred,Lost,9/30/2020,Partnership,50000,United States,Utilities
+Cloud A,,Paul,Lost,10/6/2021,New,75000,United States,Utilities
+Cloud C,Partner,Paul,Requalify,6/30/2022,New,100000,Canada,Utilities
+Cloud B,,Paul,Lost,11/26/2021,New,100000,United States,Utilities
+Cloud B,Partner,Steve,Lost,6/14/2019,New,100000,United States,Utilities
+Cloud C,Partner,Tom,Lost,8/13/2021,New,100000,Spain,Utilities
+Cloud C,Partner,Ben,Won,12/17/2021,New,150000,United States,Utilities
+Cloud C,,Mary,Proposal,12/16/2022,Renewal,150000,United States,Utilities
+,Web,Ben,Requalify,10/10/2021,New,1000,United States,Utilities
+Cloud C,Partner,Dave,Lost,4/1/2022,New,1000,United States,Utilities
+,,Paul,Lost,2/20/2021,New,1000,United States,Utilities
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Utilities
+On-Premise,Web,Susans,Lost,9/30/2019,New,1000,Bermuda,Utilities
+,,Susans,Lost,12/26/2018,New,1000,United States,Utilities
+,,Susans,Lost,11/23/2018,New,1000,United States,Utilities
+,,Susans,Lost,6/29/2018,New,1000,United States,Utilities
+,,Susans,Lost,12/31/2016,Upsell,1000,Hungary,Utilities
+Cloud B,Web,Tom,Lost,6/30/2021,New,1000,Canada,Utilities
+Cloud B,Partner,Tom,Won,4/24/2020,New,1000,Norway,Utilities
+,,Alex,Lost,6/17/2020,New,40000,India,Utilities
+Cloud B,Web,Craig,Proposal,12/31/2022,Renewal,40000,Colombia,Utilities
+Cloud B,Web,Tom,Won,7/22/2020,Renewal,40000,Colombia,Utilities
+Cloud B,Web,Tom,Won,7/11/2019,New,40000,Colombia,Utilities
+Cloud B,,Alex,Lost,9/25/2020,New,40000,United Arab Emirates,Utilities
+,Partner,Joe,Meeting,7/5/2022,New,40000,United States,Utilities
+Cloud B,Web,Tom,Won,12/31/2021,Renewal,50000,Colombia,Utilities
+Cloud A,Web,Susans,Lost,12/15/2020,New,50000,United States,Utilities
+Cloud B,Partner,Greg,Proposal,4/24/2022,Renewal,50000,Norway,Utilities
+Cloud B,Web,Paul,Won,9/16/2021,Upsell,50000,Canada,Utilities
+Cloud B,Web,Paul,Won,9/16/2021,Renewal,50000,Canada,Utilities
+,Partner,Craig,Meeting,5/31/2022,New,75000,Brazil,Utilities
+Cloud A,Web,Dave,Lost,9/30/2020,New,75000,United States,Utilities
+,Web,Dave,Lost,10/31/2019,New,75000,United States,Utilities
+Cloud B,Web,Paul,Won,10/2/2020,New,75000,Canada,Utilities
+,Web,Dave,Requalify,3/31/2022,New,75000,Luxembourg,Utilities
+Cloud B,,Susans,Requalify,9/20/2019,New,80000,United States,Utilities
+On-Premise,,Susans,Lost,10/14/2019,New,80000,United Kingdom,Utilities
+Cloud B,,Dave,Lost,2/17/2021,New,80000,Denmark,Utilities
+,,Susans,Lost,1/31/2018,New,80000,United States,Utilities
+Cloud A,Web,Susans,Lost,7/11/2019,New,80000,United States,Utilities
+,Web,Ed,Meeting,5/18/2022,New,100000,United States,Utilities
+,Partner,Greg,Qualification,3/31/2022,Upsell,100000,Norway,Utilities
+,,Susans,Lost,10/25/2015,Upsell,100000,United States,Utilities
+Cloud B,Web,Susans,Lost,9/27/2019,New,100000,United Kingdom,Utilities
+,,Susans,Lost,7/30/2015,,100000,United States,Utilities
+,,Susans,Lost,6/29/2018,Upsell,100000,United States,Utilities
+Cloud B,,Susans,Lost,9/6/2019,Upsell,100000,United Kingdom,Utilities
+Cloud B,Web,Joe,Proposal,10/1/2022,Renewal,100000,Canada,Utilities
+On-Premise,Web,Dave,Requalify,7/1/2022,New,150000,United States,Utilities
+On-Premise,Web,Sammy,Proposal,11/22/2021,Renewal,150000,Turkey,Utilities
+On-Premise,Web,Sammy,Won,11/22/2018,New,150000,Turkey,Utilities
+On-Premise,Web,Sammy,Proposal,11/15/2021,Renewal,150000,Turkey,Utilities
+,,Susans,Lost,6/30/2017,Upsell,150000,United States,Utilities
+,Web,Sammy,Lost,4/30/2019,New,200000,Turkey,Utilities
+,Web,Alex,Requalify,1/28/2021,New,1000,United States,Healthcare
+Cloud B,,Alex,Requalify,10/30/2021,New,1000,India,Healthcare
+Cloud C,Partner,Dave,Lost,6/29/2021,New,1000,Italy,Healthcare
+,Web,Dave,Lost,1/5/2021,New,1000,Germany,Healthcare
+,Web,Fred,Meeting,12/31/2021,New,1000,United States,Healthcare
+,,Paul,Requalify,7/17/2019,New,1000,United States,Healthcare
+,Partner,Paul,Requalify,3/11/2022,New,1000,United States,Healthcare
+Cloud B,Partner,Paul,Lost,10/26/2018,New,1000,United States,Healthcare
+On-Premise,Web,Paul,Lost,7/12/2021,New,1000,United States,Healthcare
+Cloud C,Partner,Paul,Won,12/10/2020,Renewal,1000,United States,Healthcare
+Cloud B,Partner,Steve,Lost,1/7/2021,New,1000,United States,Healthcare
+On-Premise,Web,Steve,Lost,6/12/2019,New,1000,United States,Healthcare
+,,Steve,Requalify,3/25/2022,Upsell,1000,United States,Healthcare
+,Web,Steve,Lost,1/28/2021,New,1000,United States,Healthcare
+On-Premise,Web,Steve,Won,7/16/2021,Renewal,1000,United States,Healthcare
+Cloud B,Web,Steve,Lost,9/9/2021,New,1000,United States,Healthcare
+Cloud B,Web,Steve,Lost,6/27/2019,New,1000,United States,Healthcare
+,,Susans,Lost,1/31/2018,New,1000,United States,Healthcare
+,,Susans,Lost,3/30/2018,Upsell,1000,United States,Healthcare
+,,Susans,Lost,12/29/2016,Upsell,1000,United States,Healthcare
+Cloud B,Partner,Susans,Lost,9/30/2019,New,1000,United States,Healthcare
+On-Premise,,Susans,Lost,6/1/2018,New,1000,United States,Healthcare
+,,Susans,Lost,6/22/2018,Upsell,1000,United States,Healthcare
+,Web,Susans,Lost,12/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,3/26/2018,New,1000,United States,Healthcare
+Cloud C,Partner,Susans,Lost,6/30/2019,New,1000,United States,Healthcare
+,,Susans,Lost,12/31/2018,New,1000,United States,Healthcare
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Healthcare
+Cloud A,Web,Tom,Requalify,10/30/2020,New,1000,United States,Healthcare
+Cloud B,Partner,Tom,Won,11/18/2020,New,1000,United States,Healthcare
+,,Susans,Won,11/28/2017,Upsell,8000,United States,Healthcare
+,,Dave,Won,12/10/2019,Renewal,10000,United States,Healthcare
+,,Mary,Proposal,4/27/2022,Renewal,10000,United States,Healthcare
+,,Susans,Won,11/15/2018,Renewal,10000,United States,Healthcare
+,,Dave,Won,12/1/2020,Renewal,20000,United States,Healthcare
+Cloud C,Partner,Susans,Lost,4/27/2020,Renewal,40000,United States,Healthcare
+Cloud B,Web,Steve,Lost,11/27/2020,New,40000,United States,Healthcare
+,,Susans,Lost,11/30/2015,Upsell,40000,United States,Healthcare
+,,Tom,Lost,3/6/2015,Upsell,50000,United States,Healthcare
+Cloud C,Partner,Susans,Won,10/31/2019,New,50000,United States,Healthcare
+,Web,Tom,Lost,6/26/2020,New,50000,United States,Healthcare
+,Partner,Paul,Proposal,4/12/2023,Renewal,50000,United States,Healthcare
+On-Premise,,Dave,Won,4/21/2021,Renewal,50000,United States,Healthcare
+On-Premise,,Dave,Won,4/24/2020,Upsell,50000,United States,Healthcare
+On-Premise,,Mary,Proposal,4/27/2022,Renewal,50000,United States,Healthcare
+On-Premise,,Susans,Lost,8/31/2020,New,75000,United States,Healthcare
+On-Premise,Web,Nancy,Proposal,7/10/2022,Renewal,75000,United States,Healthcare
+Cloud B,Web,Susans,Lost,6/28/2019,New,75000,United States,Healthcare
+Cloud A,Web,Dave,Lost,4/1/2022,New,75000,United States,Healthcare
+Cloud C,Partner,Dave,Lost,4/30/2020,New,75000,United States,Healthcare
+Cloud B,,Paul,Lost,7/16/2021,New,75000,United States,Healthcare
+On-Premise,Web,Steve,Won,7/10/2020,New,75000,United States,Healthcare
+Cloud A,Partner,Greg,Won,11/22/2021,New,80000,United States,Healthcare
+Cloud A,,Greg,Proposal,11/22/2022,Renewal,80000,United States,Healthcare
+On-Premise,,Sammy,Lost,9/30/2018,New,90000,Spain,Healthcare
+On-Premise,,Ben,Requalify,2/11/2022,New,90000,United States,Healthcare
+,Web,Ben,Meeting,12/31/2021,New,90000,United States,Healthcare
+,Web,Dave,Requalify,3/11/2022,New,90000,United States,Healthcare
+Cloud A,,Dave,Lost,3/31/2020,New,100000,United States,Healthcare
+,,Mary,Lost,4/29/2022,New,100000,United States,Healthcare
+,Partner,Mary,Qualification,6/30/2022,Upsell,100000,United States,Healthcare
+,Web,Mary,Lost,3/31/2022,New,100000,United States,Healthcare
+,,Paul,Requalify,7/29/2022,New,100000,United States,Healthcare
+,,Paul,Lost,7/31/2018,New,100000,United States,Healthcare
+Cloud C,Partner,Paul,Won,12/19/2019,New,100000,United States,Healthcare
+Cloud A,,Steve,Lost,5/8/2020,New,100000,United States,Healthcare
+,,Susans,Lost,6/8/2018,New,100000,United States,Healthcare
+,,Susans,Lost,1/31/2017,Upsell,100000,United States,Healthcare
+Cloud B,Web,Tom,Requalify,5/31/2022,New,100000,United States,Healthcare
+,,Susans,Won,11/15/2017,New,100000,United States,Healthcare
+,,Susans,Lost,6/30/2018,New,100000,United States,Healthcare
+Cloud A,,Ben,Requalify,9/30/2022,New,100000,United States,Healthcare
+Cloud C,Partner,Paul,Lost,7/16/2021,Upsell,100000,United States,Healthcare
+Cloud C,Partner,Paul,Won,5/7/2021,Renewal,100000,United States,Healthcare
+Cloud C,Partner,Paul,Won,5/8/2020,Upsell,100000,United States,Healthcare
+Cloud C,Partner,Mary,Validation,6/28/2022,Upsell,150000,United States,Healthcare
+,,Steve,Lost,5/29/2015,,150000,United States,Healthcare
+,,Susans,Lost,9/30/2017,New,150000,United States,Healthcare
+Cloud B,,Susans,Lost,4/7/2020,Upsell,150000,United States,Healthcare
+,Event,Mike,Meeting,6/30/2022,New,150000,United States,Healthcare
+On-Premise,Web,Steve,Lost,3/22/2019,New,150000,United States,Healthcare
+Cloud C,Partner,Paul,Won,9/11/2020,Upsell,150000,United States,Healthcare
+Cloud C,Partner,Ben,Won,12/9/2021,Renewal,150000,United States,Healthcare
+Cloud C,Partner,Joe,Proposal,3/28/2022,Upsell,150000,United States,Healthcare
+Cloud C,,Joe,Proposal,12/14/2022,Renewal,150000,United States,Healthcare
+Cloud C,Partner,Paul,Won,12/28/2020,New,150000,United States,Healthcare
+Cloud B,Web,Paul,Won,11/20/2020,Renewal,200000,United States,Healthcare
+Cloud B,,Paul,Proposal,11/11/2022,Renewal,200000,United States,Healthcare
+Cloud B,Web,Paul,Won,10/7/2021,Renewal,200000,United States,Healthcare
+Cloud B,Web,Susans,Won,11/15/2019,New,200000,United States,Healthcare
+Cloud C,Partner,Paul,Won,11/20/2020,Upsell,200000,United States,Healthcare
+Cloud C,Partner,Steve,Requalify,6/24/2022,New,200000,United States,Healthcare
+Cloud C,Partner,Joe,Qualification,12/15/2022,Renewal,200000,United States,Healthcare
+Cloud C,Partner,Paul,Proposal,1/14/2023,Renewal,200000,United States,Healthcare
+Cloud C,Partner,Paul,Won,9/16/2021,Renewal,200000,United States,Healthcare
+,Partner,Nancy,Meeting,6/30/2022,New,200000,United States,Healthcare
+On-Premise,Event,Dave,Requalify,1/31/2022,New,1000,Spain,Healthcare
+,Web,Dave,Lost,8/16/2021,New,1000,United States,Healthcare
+,Web,Dave,Lost,9/16/2021,New,1000,United States,Healthcare
+Cloud C,Partner,Paul,Requalify,6/24/2022,New,1000,United States,Healthcare
+Cloud A,,Sammy,Lost,9/27/2018,New,1000,United Kingdom,Healthcare
+Cloud C,Partner,Steve,Lost,7/30/2021,New,1000,United Kingdom,Healthcare
+Cloud A,,Steve,Lost,3/25/2021,New,1000,United Kingdom,Healthcare
+,Web,Steve,Lost,12/31/2021,New,1000,Canada,Healthcare
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Healthcare
+,,Susans,Lost,3/8/2018,Upsell,1000,United States,Healthcare
+,,Susans,Lost,2/28/2018,New,1000,United States,Healthcare
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,9/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,12/31/2019,New,1000,United States,Healthcare
+,,Susans,Lost,6/29/2018,Upsell,1000,United States,Healthcare
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Healthcare
+,,Tom,Lost,6/30/2017,New,1000,United States,Healthcare
+,,Susans,Won,3/1/2022,New,1000,United States,Healthcare
+,,Susans,Proposal,2/28/2023,Renewal,1000,United States,Healthcare
+Cloud B,,Tom,Won,3/12/2019,New,10000,Australia,Healthcare
+Cloud B,,Tom,Won,12/9/2019,Renewal,10000,Australia,Healthcare
+Cloud B,,Tom,Won,3/17/2020,Renewal,10000,Australia,Healthcare
+Cloud B,,Tom,Won,9/17/2020,Renewal,10000,Australia,Healthcare
+Cloud B,,Tom,Won,6/10/2020,Renewal,10000,Australia,Healthcare
+Cloud B,,Alex,Proposal,3/18/2022,Renewal,20000,Australia,Healthcare
+Cloud B,Web,Steve,Lost,8/23/2019,New,20000,United States,Healthcare
+,,Susans,Won,9/30/2016,Upsell,20000,Germany,Healthcare
+,,Susans,Lost,11/9/2017,New,40000,United States,Healthcare
+Cloud B,,Tom,Won,3/31/2021,Renewal,50000,Australia,Healthcare
+On-Premise,,Steve,Lost,3/25/2022,New,50000,United Kingdom,Healthcare
+Cloud A,,Paul,Lost,7/16/2021,New,75000,United States,Healthcare
+,Web,Amy,Validation,5/31/2022,New,90000,United States,Healthcare
+,Partner,Dave,Lost,4/1/2022,New,100000,United States,Healthcare
+,Web,Larry,Meeting,6/23/2022,New,100000,Ireland,Healthcare
+On-Premise,Partner,Paul,Validation,3/31/2022,New,100000,United States,Healthcare
+Cloud A,,Paul,Validation,4/29/2022,New,100000,United States,Healthcare
+,,Susans,Lost,3/23/2017,Upsell,100000,United States,Healthcare
+,,Susans,Lost,11/20/2015,Upsell,100000,United States,Healthcare
+,,Paul,Lost,9/7/2018,New,100000,United States,Healthcare
+On-Premise,,Mary,Qualification,5/25/2022,New,150000,United States,Healthcare
+On-Premise,Partner,Dave,Lost,7/1/2021,New,1000,United States,Healthcare
+,Partner,Dave,Lost,2/16/2021,New,1000,Germany,Healthcare
+On-Premise,Partner,Dave,Lost,7/8/2021,New,1000,Germany,Healthcare
+Cloud B,,Joe,Requalify,3/30/2022,New,1000,United States,Healthcare
+On-Premise,Web,Paul,Lost,6/23/2021,New,1000,United States,Healthcare
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Healthcare
+,,Susans,Lost,9/15/2017,Upsell,1000,Japan,Healthcare
+,,Susans,Lost,8/24/2018,New,50000,United States,Healthcare
+Cloud A,Web,Greg,Validation,4/29/2022,New,75000,Japan,Healthcare
+,,Susans,Lost,10/1/2015,,75000,United States,Healthcare
+Cloud C,Partner,Dave,Lost,10/9/2020,New,100000,Germany,Healthcare
+,,Susans,Lost,10/24/2018,New,100000,United States,Healthcare
+,,Susans,Lost,10/16/2015,Upsell,150000,United States,Healthcare
+,Web,Paul,Meeting,4/29/2022,New,200000,United States,Healthcare
+Cloud C,Partner,Nancy,Validation,3/31/2022,New,150000,United States,Healthcare
+Cloud B,Web,Alex,Won,6/25/2021,Upsell,1000,New Zealand,Healthcare
+Cloud C,Web,Charlie,Requalify,10/1/2021,New,1000,United States,Healthcare
+On-Premise,Web,Dave,Lost,12/31/2021,New,1000,Sweden,Healthcare
+On-Premise,Web,Dave,Lost,6/3/2021,New,1000,United States,Healthcare
+,Web,Dave,Lost,1/19/2021,New,1000,Sweden,Healthcare
+On-Premise,Partner,Dave,Lost,9/29/2021,New,1000,United States,Healthcare
+On-Premise,Web,Paul,Requalify,9/30/2022,New,1000,United States,Healthcare
+,Event,Steve,Lost,6/8/2021,New,1000,Bermuda,Healthcare
+,,Steve,Requalify,1/31/2022,New,1000,United States,Healthcare
+,,Steve,Lost,6/30/2021,New,1000,Germany,Healthcare
+On-Premise,Partner,Steve,Lost,11/20/2020,New,1000,Canada,Healthcare
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Healthcare
+,,Susans,Lost,3/30/2018,New,1000,United States,Healthcare
+,,Susans,Lost,4/18/2014,Upsell,1000,United States,Healthcare
+,,Tom,Lost,6/30/2017,New,1000,United States,Healthcare
+Cloud C,Partner,Sammy,Won,5/8/2019,New,10000,United Kingdom,Healthcare
+Cloud C,Partner,Tom,Won,7/9/2019,Renewal,10000,United Kingdom,Healthcare
+Cloud C,Partner,Tom,Won,2/10/2020,Renewal,10000,United Kingdom,Insurance
+Cloud C,Partner,Tom,Requalify,5/13/2020,Renewal,10000,United Kingdom,Insurance
+Cloud C,Partner,Tom,Won,10/31/2019,Renewal,10000,United Kingdom,Insurance
+Cloud B,Web,Alex,Proposal,5/31/2022,Renewal,20000,New Zealand,Insurance
+Cloud B,Web,Sammy,Won,5/22/2019,New,20000,New Zealand,Insurance
+Cloud B,Web,Tom,Won,4/30/2020,Renewal,20000,New Zealand,Insurance
+Cloud B,Web,Tom,Won,4/21/2021,Renewal,20000,New Zealand,Insurance
+Cloud C,,Mary,Proposal,3/31/2023,Renewal,20000,United States,Insurance
+Cloud C,,Paul,Won,12/30/2021,Upsell,20000,United States,Insurance
+On-Premise,Web,Tom,Lost,4/1/2020,New,20000,Ireland,Insurance
+,,Paul,Meeting,9/30/2022,New,50000,United States,Insurance
+On-Premise,,Steve,Lost,12/27/2019,New,50000,United States,Insurance
+Cloud A,,Dave,Lost,10/16/2020,New,75000,United States,Insurance
+On-Premise,,Susans,Lost,12/31/2018,New,80000,United States,Insurance
+Cloud C,Web,Paul,Won,8/31/2020,New,80000,United States,Insurance
+Cloud C,Web,Paul,Lost,7/16/2021,Renewal,80000,United States,Insurance
+On-Premise,,Dave,Lost,1/18/2021,New,80000,United States,Insurance
+Cloud B,Partner,Paul,Lost,7/31/2018,New,80000,United States,Insurance
+,Web,Larry,Meeting,6/22/2022,New,80000,United States,Insurance
+,,Susans,Lost,7/31/2018,New,80000,United States,Insurance
+,Seller,Greg,Meeting,6/30/2022,New,100000,United States,Insurance
+,,Paul,Lost,7/31/2018,New,100000,United States,Insurance
+,,Susans,Lost,7/1/2017,Upsell,100000,United States,Insurance
+Cloud B,Web,Alex,Proposal,6/28/2022,Renewal,100000,New Zealand,Insurance
+Cloud C,,Mary,Proposal,3/31/2022,Renewal,100000,United States,Insurance
+Cloud C,,Paul,Won,6/17/2021,New,100000,United States,Insurance
+,,Paul,Lost,8/24/2018,New,100000,United States,Insurance
+Cloud C,,Mary,Proposal,3/30/2022,Renewal,150000,United States,Insurance
+Cloud C,Web,Paul,Won,3/31/2020,New,150000,United States,Insurance
+Cloud C,,Paul,Won,3/15/2021,Renewal,150000,United States,Insurance
+,,Joe,Meeting,10/19/2022,New,150000,United States,Insurance
+,,Alex,Lost,10/31/2021,New,1000,United States,Internet
+Cloud C,,Alex,Won,7/16/2021,Upsell,1000,Singapore,Internet
+,Web,Alex,Lost,10/6/2021,New,1000,India,Internet
+,Partner,Alex,Won,2/28/2021,New,1000,Singapore,Internet
+,,Charlie,Lost,11/12/2021,New,1000,United States,Internet
+Cloud A,Web,Charlie,Lost,10/17/2020,New,1000,United States,Internet
+,Web,Charlie,Lost,9/21/2020,New,1000,United States,Internet
+,Web,Charlie,Lost,11/30/2020,New,1000,United States,Internet
+,Web,Charlie,Lost,4/30/2021,New,1000,United States,Internet
+Cloud C,,Dave,Lost,9/8/2021,New,1000,United States,Internet
+On-Premise,,Dave,Lost,9/27/2019,New,1000,United States,Internet
+Cloud B,Web,Dave,Lost,9/20/2018,New,1000,United States,Internet
+,Web,Dave,Lost,1/20/2021,New,1000,United States,Internet
+,,Dave,Lost,12/30/2017,New,1000,United States,Internet
+,Partner,Dave,Lost,4/1/2022,New,1000,Belgium,Internet
+,Partner,Dave,Lost,2/25/2022,New,1000,United States,Internet
+Cloud C,Partner,Dave,Lost,9/6/2021,New,1000,Ireland,Internet
+Cloud C,Partner,Dave,Lost,4/1/2022,New,1000,United States,Internet
+,Partner,Dave,Won,4/27/2021,Upsell,1000,United States,Internet
+,,Dave,Lost,4/1/2022,New,1000,United States,Internet
+On-Premise,Web,Dave,Lost,4/27/2021,New,1000,United States,Internet
+,,Dave,Lost,9/29/2017,New,1000,United States,Internet
+,Web,Dave,Lost,8/6/2021,New,1000,Switzerland,Internet
+,Web,Dave,Lost,4/1/2022,New,1000,United States,Internet
+,,Dave,Lost,6/30/2017,New,1000,United States,Internet
+,Partner,Dave,Lost,10/13/2021,New,1000,United States,Internet
+,,Dave,Lost,1/29/2022,Renewal,1000,United States,Internet
+Cloud C,Partner,Ed,Lost,12/31/2020,New,1000,India,Internet
+Cloud B,Partner,Fred,Lost,6/30/2021,Partnership,1000,United States,Internet
+,,Fred,Lost,1/7/2021,Partnership,1000,United States,Internet
+Cloud C,Partner,Fred,Lost,12/31/2020,Partnership,1000,United States,Internet
+,Partner,Fred,Lost,6/30/2021,Partnership,1000,Ecuador,Internet
+Cloud C,Partner,Fred,Lost,10/11/2020,Partnership,1000,United States,Internet
+,Partner,Fred,Lost,12/31/2020,Partnership,1000,United States,Internet
+,,Fred,Lost,12/31/2016,Partnership,1000,United States,Internet
+,,Fred,Lost,12/31/2016,Partnership,1000,United States,Internet
+Cloud C,Partner,Fred,Lost,12/31/2020,Partnership,1000,United States,Internet
+,,Greg,Lost,9/1/2021,New,1000,United States,Internet
+,Web,Greg,Lost,3/31/2022,New,1000,France,Internet
+,Web,Joe,Requalify,11/12/2021,New,1000,United States,Internet
+Cloud C,Web,Joe,Requalify,11/17/2020,New,1000,United States,Internet
+Cloud A,,Paul,Requalify,7/28/2022,New,1000,United States,Internet
+,,Paul,Lost,12/30/2017,New,1000,United States,Internet
+,,Paul,Requalify,7/28/2022,New,1000,United States,Internet
+,Web,Paul,Lost,11/12/2021,New,1000,United States,Internet
+,Event,Paul,Lost,5/11/2021,New,1000,United States,Internet
+,Web,Paul,Requalify,3/25/2022,New,1000,United States,Internet
+,Web,Paul,Lost,11/13/2020,New,1000,United States,Internet
+,,Paul,Lost,7/21/2022,New,1000,United States,Internet
+,Partner,Paul,Lost,10/6/2021,New,1000,United States,Internet
+Cloud B,Partner,Paul,Lost,5/31/2021,New,1000,United States,Internet
+,Web,Paul,Requalify,5/25/2021,New,1000,United States,Internet
+,,Paul,Lost,1/8/2021,New,1000,United States,Internet
+,,Paul,Lost,6/15/2018,New,1000,United States,Internet
+Cloud A,Web,Paul,Lost,5/25/2018,New,1000,United States,Internet
+,,Sammy,Won,12/16/2015,Upsell,1000,United States,Internet
+,,Sammy,Lost,12/31/2016,Upsell,1000,China,Internet
+,,Sammy,Lost,3/31/2016,Upsell,1000,Mexico,Internet
+,,Sammy,Lost,11/30/2016,Upsell,1000,China,Internet
+,,Sammy,Lost,6/30/2018,New,1000,United States,Internet
+Cloud B,,Sammy,Lost,9/30/2017,New,1000,Singapore,Internet
+,,Sammy,Lost,11/30/2017,New,1000,Australia,Internet
+,,Sammy,Lost,5/30/2018,New,1000,Spain,Internet
+,,Sammy,Lost,12/29/2017,New,1000,South Africa,Internet
+,,Sammy,Lost,12/31/2016,Upsell,1000,United States,Internet
+,Web,Sammy,Lost,12/29/2017,New,1000,France,Internet
+On-Premise,,Sammy,Lost,12/27/2018,New,1000,United Kingdom,Internet
+,,Sammy,Requalify,1/6/2017,Partnership,1000,Turkey,Internet
+,Partner,Sammy,Lost,3/31/2022,New,1000,United States,Internet
+Cloud C,Partner,Steve,Won,4/8/2021,Upsell,1000,United States,Internet
+Cloud C,,Steve,Won,6/11/2021,Upsell,1000,Canada,Internet
+Cloud C,Partner,Steve,Won,8/20/2020,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Lost,7/23/2021,Upsell,1000,United States,Internet
+,Partner,Steve,Lost,11/4/2021,New,1000,United States,Internet
+On-Premise,,Steve,Lost,11/30/2019,New,1000,Canada,Internet
+Cloud C,Partner,Steve,Won,2/2/2021,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Won,1/28/2021,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Won,12/31/2020,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Won,3/10/2021,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Requalify,9/30/2021,New,1000,United States,Internet
+Cloud A,Web,Steve,Lost,7/30/2021,New,1000,Canada,Internet
+Cloud C,Partner,Steve,Won,7/2/2021,Upsell,1000,United States,Internet
+,Partner,Steve,Lost,3/1/2021,New,1000,United States,Internet
+Cloud C,Partner,Steve,Won,11/6/2020,Upsell,1000,United States,Internet
+,Partner,Steve,Won,9/30/2021,Upsell,1000,United States,Internet
+,Partner,Steve,Lost,4/29/2021,New,1000,United States,Internet
+,Partner,Steve,Requalify,10/31/2021,Upsell,1000,United States,Internet
+,Partner,Steve,Won,9/24/2021,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Won,1/15/2021,Upsell,1000,United States,Internet
+Cloud C,Partner,Steve,Lost,7/30/2021,Upsell,1000,United States,Internet
+Cloud C,Web,Steve,Lost,12/1/2021,Renewal,1000,United States,Internet
+,,Steve,Lost,11/4/2021,New,1000,Canada,Internet
+,,Steve,Won,9/30/2021,Upsell,1000,Canada,Internet
+,Web,Steve,Lost,3/1/2021,New,1000,United States,Internet
+Cloud C,,Steve,Lost,10/7/2021,Upsell,1000,Canada,Internet
+Cloud C,Web,Steve,Won,9/30/2020,New,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,Partner,Susans,Lost,12/31/2016,New,1000,United States,Internet
+,,Susans,Lost,12/28/2018,New,1000,United States,Internet
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,France,Internet
+,,Susans,Lost,12/22/2017,Upsell,1000,United States,Internet
+,Web,Susans,Lost,3/15/2019,New,1000,Canada,Internet
+,Partner,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Requalify,2/26/2016,Partnership,1000,Turkey,Internet
+,,Susans,Lost,12/9/2016,New,1000,United States,Internet
+,,Susans,Lost,12/30/2015,Upsell,1000,United States,Internet
+,,Susans,Lost,8/31/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,12/15/2017,New,1000,United States,Internet
+,,Susans,Lost,12/30/2017,New,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,United States,Internet
+,,Susans,Lost,6/30/2018,New,1000,United States,Internet
+Cloud C,Partner,Susans,Lost,3/31/2020,New,1000,United Kingdom,Internet
+,,Susans,Lost,2/29/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,6/23/2017,Upsell,1000,France,Internet
+,,Susans,Lost,1/31/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+Cloud B,,Susans,Lost,12/31/2018,Upsell,1000,United States,Internet
+,,Susans,Lost,3/30/2017,New,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,10/31/2018,New,1000,United States,Internet
+,Partner,Susans,Lost,12/30/2016,Upsell,1000,United States,Internet
+,,Susans,Validation,3/26/2021,New,1000,United States,Internet
+Cloud A,,Susans,Lost,9/26/2018,New,1000,United States,Internet
+,,Susans,Lost,12/31/2018,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,9/29/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,United States,Internet
+,,Susans,Lost,3/24/2017,New,1000,United States,Internet
+,,Susans,Lost,4/26/2018,New,1000,United States,Internet
+,Partner,Susans,Requalify,3/9/2017,Partnership,1000,United States,Internet
+,Partner,Susans,Lost,12/31/2018,New,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+On-Premise,Web,Susans,Lost,11/15/2018,New,1000,"Korea, Republic of",Internet
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,3/17/2017,New,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,1/31/2017,New,1000,United States,Internet
+,Partner,Susans,Lost,3/31/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+On-Premise,Web,Susans,Lost,11/13/2018,New,1000,Canada,Internet
+,,Susans,Lost,3/16/2018,New,1000,United States,Internet
+,,Susans,Lost,9/29/2017,New,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,India,Internet
+,Partner,Susans,Lost,9/30/2019,New,1000,United States,Internet
+,,Susans,Lost,7/25/2019,New,1000,United States,Internet
+On-Premise,,Susans,Lost,12/15/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,Canada,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,United States,Internet
+Cloud B,Partner,Susans,Lost,12/31/2018,Upsell,1000,United States,Internet
+,,Susans,Lost,11/17/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,1/31/2018,Upsell,1000,United States,Internet
+,Partner,Susans,Lost,9/21/2017,Upsell,1000,United States,Internet
+,,Susans,Lost,4/12/2018,New,1000,United States,Internet
+,,Susans,Lost,6/30/2017,New,1000,United States,Internet
+,,Susans,Lost,9/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2019,New,1000,United Kingdom,Internet
+,,Susans,Lost,12/29/2017,New,1000,United States,Internet
+,,Susans,Lost,1/31/2017,Upsell,1000,United States,Internet
+On-Premise,Web,Susans,Lost,12/31/2015,Upsell,1000,United States,Internet
+On-Premise,Web,Susans,Lost,12/31/2015,New,1000,United States,Internet
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,12/31/2016,New,1000,United States,Internet
+,,Susans,Lost,5/29/2018,Upsell,1000,United States,Internet
+Cloud C,,Tom,Lost,12/6/2021,Renewal,1000,United States,Internet
+,,Tom,Won,4/28/2021,Upsell,1000,United States,Internet
+Cloud B,Web,Tom,Won,5/26/2020,New,1000,United Kingdom,Internet
+Cloud C,,Tom,Won,4/29/2020,New,1000,United States,Internet
+On-Premise,Web,Tom,Lost,3/18/2021,Renewal,1000,Saudi Arabia,Internet
+,,Tom,Requalify,3/31/2020,New,1000,United States,Internet
+Cloud B,Web,Tom,Lost,6/30/2019,New,1000,Brazil,Internet
+,,Tom,Lost,3/30/2017,Upsell,1000,United States,Internet
+,Partner,Tom,Requalify,4/29/2022,New,1000,United States,Internet
+,,Tom,Lost,12/29/2017,New,1000,Namibia,Internet
+Cloud C,Web,Tom,Requalify,9/30/2021,New,1000,Belgium,Internet
+Cloud A,,Tom,Lost,9/27/2018,New,1000,United Kingdom,Internet
+,,Tom,Lost,12/31/2016,Upsell,1000,Canada,Internet
+On-Premise,,Tom,Requalify,12/23/2020,New,1000,Italy,Internet
+On-Premise,Web,Tom,Lost,9/23/2021,New,1000,United States,Internet
+,Web,Tom,Lost,4/30/2021,New,1000,United States,Internet
+Cloud C,,Tom,Lost,3/3/2021,New,1000,United States,Internet
+Cloud B,,Tom,Lost,12/28/2020,New,1000,United States,Internet
+Cloud C,Web,Tom,Lost,4/11/2021,New,1000,Belgium,Internet
+,Web,Tom,Lost,4/1/2021,New,1000,United States,Internet
+Cloud A,Web,Tom,Lost,6/3/2021,New,1000,United States,Internet
+Cloud B,Partner,Tom,Lost,5/19/2021,New,1000,United Kingdom,Internet
+On-Premise,Web,Tom,Lost,9/17/2021,Renewal,1000,United States,Internet
+Cloud A,Web,Tom,Requalify,3/31/2022,New,1000,United States,Internet
+,Partner,Tom,Lost,1/26/2021,New,1000,United States,Internet
+,Web,Tom,Lost,3/1/2021,New,1000,United States,Internet
+Cloud B,Web,Tom,Requalify,12/31/2021,New,1000,United States,Internet
+,Web,Tom,Requalify,5/1/2021,New,1000,Poland,Internet
+,Web,Tom,Requalify,6/30/2021,New,1000,Canada,Internet
+,Web,Tom,Lost,12/31/2018,New,1000,United States,Internet
+Cloud B,Web,Tom,Lost,6/1/2021,New,1000,United Kingdom,Internet
+,,Tom,Lost,9/29/2017,New,1000,Poland,Internet
+Cloud C,Partner,Tom,Lost,9/1/2020,Upsell,1000,United States,Internet
+,,Tom,Lost,12/30/2016,New,1000,India,Internet
+,Web,Tom,Lost,12/31/2019,New,1000,United States,Internet
+,,Tom,Lost,12/31/2018,New,1000,United States,Internet
+,Partner,Tom,Requalify,3/30/2021,New,1000,Ukraine,Internet
+Cloud C,Web,Tom,Lost,2/17/2021,New,1000,Canada,Internet
+,Web,Tom,Requalify,5/31/2021,New,1000,United States,Internet
+,Web,Tom,Lost,2/16/2021,New,1000,United States,Internet
+,Web,Tom,Lost,1/14/2021,New,1000,Finland,Internet
+On-Premise,Web,Tom,Won,9/17/2020,New,1000,United States,Internet
+,Web,Tom,Requalify,6/30/2021,New,1000,United States,Internet
+Cloud C,Partner,Tom,Lost,11/11/2021,New,1000,United States,Internet
+,Web,Tom,Lost,5/1/2021,New,1000,Brazil,Internet
+,Partner,Tom,Lost,3/1/2021,New,1000,United States,Internet
+On-Premise,,Tom,Lost,4/1/2021,New,1000,United States,Internet
+,,Tom,Lost,1/21/2021,New,1000,United States,Internet
+Cloud C,,Tom,Won,12/28/2020,Upsell,1000,United States,Internet
+Cloud A,,Tom,Won,2/25/2021,New,1000,United States,Internet
+,Web,Tom,Requalify,9/2/2021,New,1000,United States,Internet
+,,Tom,Lost,6/30/2020,New,1000,United States,Internet
+,Web,Tom,Lost,9/30/2020,New,1000,United States,Internet
+On-Premise,Web,Tom,Requalify,5/31/2021,New,1000,Italy,Internet
+,,Tom,Lost,9/29/2017,New,1000,United States,Internet
+,Web,Tom,Requalify,11/20/2020,New,1000,United States,Internet
+,,Tom,Lost,12/31/2016,New,1000,Sweden,Internet
+Cloud A,Web,Tom,Lost,10/17/2020,New,1000,United Kingdom,Internet
+,Web,Tom,Won,12/3/2020,Renewal,1000,United States,Internet
+Cloud C,,Tom,Won,12/2/2020,New,1000,United States,Internet
+Cloud C,Partner,Steve,Won,9/24/2020,Upsell,2000,United States,Internet
+Cloud C,Event,Paul,Won,9/8/2020,New,8000,United States,Internet
+,,Dave,Proposal,6/29/2022,Renewal,8000,Turkey,Internet
+,,Susans,Won,12/28/2017,New,8000,United States,Internet
+,,Susans,Lost,3/31/2016,Upsell,10000,United States,Internet
+,,Dave,Proposal,6/29/2022,Renewal,10000,Turkey,Internet
+,,Dave,Proposal,9/30/2022,Renewal,10000,Turkey,Internet
+Cloud C,Partner,Steve,Lost,4/24/2020,Upsell,10000,United States,Internet
+Cloud C,Partner,Steve,Won,6/16/2020,Upsell,10000,United States,Internet
+Cloud C,Partner,Steve,Won,9/8/2020,Upsell,10000,United States,Internet
+On-Premise,Partner,Alex,Lost,10/2/2020,Renewal,10000,United States,Internet
+On-Premise,Partner,Alex,Won,9/27/2019,Upsell,10000,United States,Internet
+,,Susans,Lost,11/15/2017,Upsell,10000,United States,Internet
+,Partner,Joe,Proposal,5/26/2022,Upsell,10000,Canada,Internet
+,Partner,Steve,Won,12/7/2021,Upsell,10000,United States,Internet
+,Partner,Steve,Won,12/31/2021,Upsell,10000,United States,Internet
+,Partner,Steve,Won,10/25/2021,Upsell,10000,United States,Internet
+,Partner,Dave,Won,10/2/2020,Upsell,10000,United States,Internet
+,,Susans,Won,2/21/2019,New,10000,Turkey,Internet
+,,Sammy,Won,9/29/2016,Upsell,10000,China,Internet
+,,Dave,Proposal,6/29/2022,Renewal,20000,Turkey,Internet
+,Web,Joe,Qualification,10/19/2022,Upsell,20000,Canada,Internet
+Cloud C,,Paul,Lost,8/28/2020,New,20000,United States,Internet
+Cloud C,,Joe,Proposal,12/20/2022,Renewal,20000,Canada,Internet
+Cloud C,Partner,Susans,Lost,12/31/2020,New,20000,United Kingdom,Internet
+Cloud C,Partner,Tom,Lost,5/13/2019,New,20000,Canada,Internet
+Cloud C,Partner,Tom,Requalify,8/28/2020,New,20000,United States,Internet
+,,Dave,Proposal,3/31/2022,Renewal,20000,Turkey,Internet
+Cloud C,,Paul,Lost,12/27/2019,New,20000,Canada,Internet
+Cloud C,Partner,Steve,Proposal,12/17/2021,New,20000,Canada,Internet
+,,Susans,Lost,7/31/2015,Upsell,20000,United States,Internet
+,,Dave,Proposal,7/13/2022,Renewal,20000,Turkey,Internet
+,,Susans,Lost,12/31/2016,New,20000,Turkey,Internet
+,,Susans,Lost,12/31/2016,New,20000,Turkey,Internet
+Cloud C,Partner,Tom,Lost,5/15/2020,New,20000,France,Internet
+On-Premise,,Paul,Won,1/11/2021,Renewal,20000,United States,Internet
+On-Premise,,Mike,Lost,1/10/2022,Renewal,20000,United States,Internet
+On-Premise,,Susans,Won,9/26/2018,Renewal,20000,United States,Internet
+,,Susans,Won,9/29/2017,Renewal,20000,United States,Internet
+Cloud A,,Nancy,Proposal,12/31/2022,Renewal,20000,United States,Internet
+,Web,Nancy,Proposal,12/29/2022,Renewal,20000,United States,Internet
+On-Premise,,Susans,Won,8/29/2017,Upsell,20000,United States,Internet
+Cloud B,Web,Susans,Lost,9/27/2019,New,20000,United States,Internet
+Cloud C,,Craig,Proposal,4/30/2022,Renewal,20000,United States,Internet
+Cloud C,,Craig,Won,1/25/2022,Renewal,20000,United States,Internet
+Cloud A,Web,Tom,Lost,10/14/2019,New,40000,United States,Internet
+Cloud B,,Tom,Requalify,9/30/2020,New,40000,United States,Internet
+Cloud B,,Paul,Lost,10/23/2020,Renewal,40000,United States,Internet
+Cloud A,Web,Steve,Lost,4/24/2020,New,40000,United States,Internet
+Cloud C,,Steve,Won,9/24/2020,Upsell,40000,Canada,Internet
+,,Susans,Won,9/28/2018,Upsell,40000,United States,Internet
+Cloud A,Web,Sammy,Lost,4/30/2019,New,40000,United Kingdom,Internet
+,Partner,Sammy,Lost,5/31/2019,New,40000,United States,Internet
+,,Susans,Won,9/30/2016,Upsell,40000,United States,Internet
+On-Premise,Partner,Alex,Lost,10/2/2020,Upsell,40000,United States,Internet
+On-Premise,Partner,Alex,Lost,10/2/2020,Renewal,40000,United States,Internet
+,Web,Alex,Lost,10/2/2020,New,40000,Indonesia,Internet
+On-Premise,Partner,Alex,Won,10/31/2019,New,40000,United States,Internet
+,Web,Alex,Lost,11/30/2020,New,40000,Canada,Internet
+,,Dave,Proposal,3/20/2022,Renewal,40000,Turkey,Internet
+,,Sammy,Won,12/31/2016,Upsell,40000,China,Internet
+,,Sammy,Lost,9/29/2017,Upsell,40000,Finland,Internet
+,,Steve,Lost,12/18/2020,New,40000,United States,Internet
+,,Susans,Lost,12/30/2016,Upsell,40000,United States,Internet
+,,Susans,Lost,12/31/2015,Upsell,40000,United States,Internet
+,,Susans,Lost,12/31/2016,New,40000,Turkey,Internet
+,,Susans,Lost,12/31/2016,New,40000,Turkey,Internet
+,,Susans,Lost,4/28/2017,New,40000,United States,Internet
+,,Susans,Lost,9/30/2015,Upsell,40000,Germany,Internet
+,,Susans,Lost,2/29/2016,Upsell,50000,United States,Internet
+,,Susans,Lost,3/27/2015,Upsell,50000,United States,Internet
+,,Susans,Lost,4/30/2017,Upsell,50000,United States,Internet
+,Partner,Susans,Lost,1/31/2017,Upsell,50000,United States,Internet
+,,Susans,Lost,9/30/2015,Upsell,50000,United States,Internet
+,,Susans,Lost,5/31/2017,New,50000,United States,Internet
+,,Susans,Lost,1/31/2017,Upsell,50000,United States,Internet
+,Web,Tom,Won,10/11/2019,New,50000,United States,Internet
+,Web,Tom,Won,12/7/2021,Renewal,50000,United States,Internet
+Cloud B,Web,Tom,Lost,8/31/2020,New,50000,United States,Internet
+On-Premise,Partner,Alex,Lost,10/2/2020,Renewal,50000,United States,Internet
+On-Premise,Partner,Alex,Won,11/12/2019,New,50000,United States,Internet
+Cloud B,Web,Greg,Proposal,5/25/2022,Renewal,50000,United Kingdom,Internet
+Cloud B,Web,Tom,Won,4/20/2021,Renewal,50000,United Kingdom,Internet
+Cloud B,,Susans,Won,9/28/2018,New,50000,United States,Internet
+On-Premise,Web,Susans,Lost,12/7/2018,New,50000,United States,Internet
+On-Premise,Partner,Alex,Won,10/7/2019,Renewal,50000,United States,Internet
+On-Premise,Partner,Alex,Lost,10/2/2020,Renewal,50000,United States,Internet
+,Partner,Sammy,Won,10/18/2018,New,50000,United States,Internet
+On-Premise,Web,Steve,Lost,6/21/2019,New,50000,United States,Internet
+,,Susans,Won,9/28/2018,Renewal,50000,United States,Internet
+,Partner,Alex,Validation,6/30/2022,New,50000,Japan,Internet
+Cloud A,Partner,Dave,Won,4/27/2021,Renewal,50000,United States,Internet
+,Event,Paul,Meeting,6/30/2022,New,50000,Switzerland,Internet
+Cloud A,Partner,Susans,Won,4/30/2020,New,50000,United States,Internet
+Cloud C,Partner,Tom,Lost,6/30/2020,New,50000,United States,Internet
+,Web,Tom,Requalify,12/3/2020,New,50000,United States,Internet
+,,Tom,Lost,6/30/2020,New,50000,United States,Internet
+,Web,Tom,Requalify,2/28/2022,New,50000,United States,Internet
+Cloud B,,Tom,Lost,9/3/2020,New,50000,United Arab Emirates,Internet
+,,Susans,Lost,11/15/2018,New,50000,United States,Internet
+Cloud A,Web,Dave,Won,11/2/2021,Upsell,50000,United States,Internet
+Cloud C,Web,Susans,Lost,12/31/2019,New,50000,United States,Internet
+Cloud C,Partner,Steve,Won,7/31/2020,Upsell,50000,United States,Internet
+On-Premise,Partner,Sammy,Won,1/8/2018,New,50000,United States,Internet
+,,Susans,Won,9/29/2017,New,50000,United States,Internet
+Cloud C,Partner,Dave,Lost,10/30/2020,New,50000,United States,Internet
+Cloud A,Web,Sammy,Validation,4/28/2022,New,50000,United States,Internet
+Cloud C,Partner,Tom,Lost,3/30/2022,New,50000,United States,Internet
+,Partner,Sammy,Won,12/11/2018,Upsell,50000,Japan,Internet
+On-Premise,Web,Tom,Won,3/16/2020,New,75000,Saudi Arabia,Internet
+,Web,Joe,Qualification,5/30/2022,New,75000,United States,Internet
+,Web,Joe,Qualification,5/30/2022,New,75000,Netherlands,Internet
+Cloud C,,Paul,Lost,8/28/2020,New,75000,United States,Internet
+,Web,Paul,Validation,12/23/2022,New,75000,Poland,Internet
+Cloud B,Partner,Paul,Lost,3/27/2020,New,75000,United States,Internet
+On-Premise,Web,Paul,Validation,4/29/2022,New,75000,South Africa,Internet
+Cloud B,Web,Susans,Lost,3/29/2019,New,75000,United States,Internet
+,,Susans,Lost,6/28/2019,New,75000,United States,Internet
+On-Premise,,Susans,Lost,2/22/2019,New,75000,United States,Internet
+,,Susans,Lost,10/16/2015,Upsell,75000,United States,Internet
+,,Susans,Lost,9/25/2015,Upsell,75000,United Kingdom,Internet
+On-Premise,,Tom,Lost,2/14/2020,New,75000,Saudi Arabia,Internet
+,Web,Amy,Validation,10/28/2022,New,75000,United States,Internet
+,,Dave,Lost,3/31/2022,New,75000,United States,Internet
+,Partner,Dave,Requalify,7/1/2022,New,75000,United States,Internet
+Cloud B,,Steve,Lost,10/25/2019,New,75000,United States,Internet
+,Web,Susans,Lost,12/18/2017,New,80000,United States,Internet
+Cloud A,,Susans,Lost,11/26/2019,New,80000,United States,Internet
+Cloud B,,Susans,Lost,6/29/2020,New,80000,Spain,Internet
+,,Susans,Lost,9/30/2017,Upsell,80000,United States,Internet
+On-Premise,,Steve,Lost,11/27/2020,Renewal,80000,United States,Internet
+Cloud B,SDR,Joe,Proposal,12/20/2022,Renewal,80000,Canada,Internet
+,,Dave,Lost,3/27/2020,New,80000,Netherlands,Internet
+On-Premise,,Dave,Lost,12/13/2019,New,80000,United States,Internet
+Cloud A,Web,Susans,Lost,10/30/2019,New,80000,United States,Internet
+On-Premise,,Susans,Won,12/19/2018,New,80000,United States,Internet
+On-Premise,Event,Dave,Lost,3/30/2021,New,80000,Slovenia,Internet
+Cloud A,Partner,Nancy,Meeting,5/31/2022,New,80000,United States,Internet
+Cloud B,Partner,Steve,Lost,6/26/2020,New,80000,United States,Internet
+Cloud C,Web,Alex,Won,3/26/2021,New,80000,Singapore,Internet
+,,Susans,Won,12/18/2017,New,80000,United States,Internet
+Cloud A,Partner,Larry,Proposal,2/21/2022,New,90000,United States,Internet
+Cloud B,,Larry,Proposal,12/31/2022,Renewal,90000,United States,Internet
+Cloud C,Partner,Steve,Won,6/27/2019,New,90000,United States,Internet
+Cloud B,Web,Tom,Won,12/28/2021,New,90000,United States,Internet
+,Web,Tom,Requalify,4/6/2021,New,90000,Sweden,Internet
+,,Susans,Won,3/31/2020,Upsell,90000,United States,Internet
+Cloud C,Partner,Steve,Won,5/22/2020,Upsell,90000,United States,Internet
+,Web,Susans,Lost,11/3/2019,New,90000,United States,Internet
+,,Mary,Proposal,10/28/2022,Renewal,90000,United States,Internet
+On-Premise,Partner,Alex,Qualification,5/26/2022,New,90000,United States,Internet
+Cloud C,Web,Alex,Lost,6/30/2020,Upsell,90000,Indonesia,Internet
+Cloud C,,Dave,Lost,9/15/2020,New,100000,United States,Internet
+,Partner,Dave,Lost,2/26/2021,New,100000,United States,Internet
+On-Premise,Web,Dave,Requalify,7/1/2022,New,100000,United States,Internet
+,,Dave,Proposal,3/31/2022,Renewal,100000,Turkey,Internet
+,Partner,Joe,Validation,7/20/2022,New,100000,Canada,Internet
+,Web,Larry,Lost,5/11/2022,New,100000,United States,Internet
+Cloud B,,Mary,Meeting,9/29/2022,New,100000,United States,Internet
+Cloud C,Partner,Paul,Meeting,9/29/2022,New,100000,United States,Internet
+,Web,Paul,Qualification,6/29/2022,New,100000,United States,Internet
+Cloud B,,Sammy,Requalify,8/26/2020,Upsell,100000,United States,Internet
+,,Steve,Lost,6/15/2017,New,100000,United States,Internet
+On-Premise,,Steve,Lost,12/11/2020,New,100000,United States,Internet
+On-Premise,,Steve,Lost,12/28/2018,Upsell,100000,United States,Internet
+On-Premise,,Steve,Lost,3/20/2019,New,100000,United States,Internet
+Cloud C,Partner,Steve,Lost,11/20/2020,New,100000,United Kingdom,Internet
+,,Susans,Lost,8/31/2015,Upsell,100000,United States,Internet
+,,Susans,Lost,6/30/2018,New,100000,United States,Internet
+,Partner,Susans,Lost,9/30/2016,Upsell,100000,United Kingdom,Internet
+,,Susans,Lost,4/29/2016,Upsell,100000,United States,Internet
+,,Susans,Lost,10/1/2015,Upsell,100000,United States,Internet
+,,Susans,Lost,4/18/2014,Upsell,100000,United States,Internet
+,,Susans,Lost,12/31/2015,Upsell,100000,United States,Internet
+Cloud B,Web,Susans,Lost,1/6/2019,New,100000,United States,Internet
+,,Susans,Lost,6/15/2015,Upsell,100000,United States,Internet
+,,Alex,Proposal,4/6/2022,Renewal,100000,United States,Internet
+Cloud C,,Joe,Proposal,12/20/2022,Renewal,100000,Canada,Internet
+Cloud A,,Steve,Lost,9/18/2020,New,100000,United States,Internet
+,,Steve,Lost,2/25/2022,Upsell,100000,Canada,Internet
+,,Susans,Won,3/31/2017,Upsell,100000,Japan,Internet
+Cloud A,,Dave,Won,11/20/2020,New,100000,United States,Internet
+Cloud A,Web,Dave,Won,11/2/2021,Renewal,100000,United States,Internet
+,,Alex,Won,11/27/2020,Renewal,100000,United States,Internet
+,,Alex,Proposal,9/27/2022,Renewal,100000,United States,Internet
+,,Alex,Won,7/30/2021,Renewal,100000,United States,Internet
+,,Susans,Won,9/27/2019,Renewal,100000,United States,Internet
+,,Susans,Lost,6/30/2017,Upsell,100000,United States,Internet
+On-Premise,Web,Paul,Proposal,3/18/2022,New,100000,United States,Internet
+Cloud B,,Steve,Lost,10/30/2020,New,100000,Canada,Internet
+,Web,Amy,Lost,7/29/2022,New,100000,United States,Internet
+,Partner,Dave,Requalify,5/27/2022,New,100000,United States,Internet
+Cloud A,Partner,Nancy,Proposal,4/30/2022,Renewal,100000,United States,Internet
+On-Premise,Partner,Paul,Validation,6/30/2022,New,100000,United States,Internet
+Cloud C,Partner,Sammy,Validation,5/31/2022,New,100000,United States,Internet
+,,Susans,Lost,11/30/2018,Upsell,100000,United States,Internet
+Cloud C,Partner,Dave,Lost,2/28/2020,New,100000,United States,Internet
+Cloud B,Partner,Dave,Lost,3/31/2020,New,100000,United States,Internet
+Cloud C,Web,Joe,Meeting,9/22/2022,New,100000,United States,Internet
+On-Premise,,Paul,Validation,12/30/2022,New,100000,United States,Internet
+,,Susans,Lost,10/16/2015,Upsell,100000,United States,Internet
+On-Premise,Partner,Sammy,Won,3/16/2018,New,100000,United States,Internet
+Cloud A,,Susans,Lost,3/6/2019,New,100000,United States,Internet
+,,Susans,Lost,12/29/2017,Upsell,100000,United States,Internet
+On-Premise,Partner,Sammy,Won,10/21/2018,Renewal,100000,United States,Internet
+,Partner,Susans,Won,12/14/2017,Renewal,100000,Canada,Internet
+On-Premise,Partner,Mary,Lost,5/31/2022,New,100000,United States,Internet
+Cloud C,,Steve,Lost,3/25/2022,Upsell,150000,Canada,Internet
+Cloud A,Web,Susans,Lost,2/20/2020,Renewal,150000,United States,Internet
+Cloud C,Web,Alex,Won,9/27/2019,New,150000,Indonesia,Internet
+,Web,Alex,Won,2/22/2022,Upsell,150000,Singapore,Internet
+Cloud C,Web,Alex,Proposal,12/25/2022,Renewal,150000,Indonesia,Internet
+,Partner,Alex,Qualification,6/30/2022,New,150000,United States,Internet
+Cloud C,Web,Alex,Won,12/2/2021,Renewal,150000,Indonesia,Internet
+Cloud C,Web,Alex,Won,12/4/2020,Renewal,150000,Indonesia,Internet
+On-Premise,Partner,Dave,Lost,11/23/2020,New,150000,United States,Internet
+,Partner,Sammy,Won,10/17/2016,New,150000,United States,Internet
+Cloud B,Partner,Steve,Lost,5/23/2019,New,150000,United States,Internet
+,,Susans,Lost,10/16/2015,Upsell,150000,United States,Internet
+,,Susans,Lost,3/31/2016,Upsell,150000,United States,Internet
+,,Susans,Lost,9/25/2015,Upsell,150000,United States,Internet
+,,Susans,Lost,12/31/2016,Upsell,150000,United States,Internet
+,,Susans,Lost,10/16/2015,Upsell,150000,United States,Internet
+,,Susans,Lost,12/31/2015,Upsell,150000,United States,Internet
+Cloud A,Web,Susans,Won,2/21/2019,New,150000,United States,Internet
+Cloud A,,Paul,Proposal,11/23/2022,Renewal,150000,United States,Internet
+Cloud B,Web,Tom,Requalify,6/11/2021,New,150000,United States,Internet
+On-Premise,Partner,Susans,Lost,11/15/2018,Upsell,150000,United States,Internet
+Cloud A,,Susans,Lost,11/15/2018,Upsell,150000,United States,Internet
+,,Sammy,Lost,12/31/2018,New,150000,Turkey,Internet
+,,Susans,Lost,10/29/2015,Upsell,150000,United States,Internet
+Cloud B,Partner,Tom,Requalify,9/1/2020,New,150000,Canada,Internet
+Cloud C,Partner,Greg,Proposal,9/30/2022,Renewal,150000,United States,Internet
+,Partner,Craig,Meeting,4/30/2022,New,150000,United States,Internet
+Cloud C,Partner,Steve,Won,10/31/2019,Upsell,150000,United States,Internet
+Cloud C,Partner,Steve,Won,10/31/2019,Upsell,150000,United States,Internet
+On-Premise,Partner,Craig,Validation,6/30/2022,New,200000,United States,Internet
+Cloud C,Partner,Joe,Validation,3/31/2022,New,200000,United States,Internet
+,,Sammy,Lost,5/30/2019,New,200000,South Africa,Internet
+,Seller,Mike,Qualification,7/29/2022,New,200000,United States,Internet
+,,Susans,Lost,9/22/2015,,200000,United States,Internet
+,,Susans,Lost,12/30/2015,,200000,United States,Internet
+Cloud B,SDR,Steve,Won,12/20/2019,New,200000,Canada,Internet
+On-Premise,,Ben,Requalify,10/10/2021,Upsell,200000,United States,Internet
+,Partner,Alex,Won,8/19/2021,Upsell,200000,Singapore,Internet
+,Partner,Alex,Proposal,8/21/2022,Renewal,200000,Singapore,Internet
+,Partner,Mary,Proposal,6/30/2022,New,200000,United States,Internet
+Cloud C,,Mary,Proposal,10/30/2022,Renewal,200000,United States,Internet
+Cloud C,Partner,Steve,Won,10/18/2021,Renewal,200000,United States,Internet
+Cloud C,Partner,Steve,Won,10/12/2020,Renewal,200000,United States,Internet
+,Partner,Susans,Lost,11/21/2018,Upsell,200000,United States,Internet
+,Partner,Alex,Meeting,3/31/2022,,200000,Singapore,Internet
+,Web,Alan,Meeting,3/31/2022,,200000,United States,Internet
+,Web,Amy,Meeting,3/31/2022,New,200000,Germany,Internet
+,Web,Amy,Meeting,3/31/2022,New,200000,Switzerland,Internet
+,Partner,Ben,Meeting,5/31/2022,New,200000,United States,Internet
+,Manual,Craig,Meeting,6/30/2022,New,200000,United States,Internet
+,Partner,Joe,Meeting,3/31/2022,,200000,Canada,Internet
+,Partner,Larry,Meeting,5/31/2022,New,200000,United States,Internet
+,Partner,Nancy,Meeting,12/31/2022,New,200000,Canada,Internet
+On-Premise,Web,Alex,Won,2/24/2022,POC,10000,India,Internet
+,Web,Alex,Meeting,5/26/2022,New,80000,India,Internet
+,,Dave,Lost,12/30/2016,New,1000,United States,Internet
+Cloud C,Web,Sammy,Lost,6/30/2019,New,1000,Spain,Internet
+,,Steve,Lost,6/26/2020,New,50000,United States,Internet
+Cloud C,,Greg,Proposal,10/11/2022,Renewal,200000,United States,Internet
+Cloud C,Partner,Steve,Won,10/8/2021,New,200000,United States,Internet
+,Web,Charlie,Lost,11/24/2020,New,1000,United States,Internet
+,,Paul,Lost,6/30/2017,New,1000,United States,Internet
+On-Premise,,Paul,Lost,12/30/2016,New,1000,United States,Internet
+,Web,Steve,Lost,9/30/2021,New,1000,Germany,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+Cloud C,,Steve,Lost,9/30/2020,New,40000,United Kingdom,Internet
+Cloud A,Web,Alex,Lost,4/9/2021,New,1000,Malaysia,Internet
+On-Premise,Partner,Dave,Lost,6/8/2021,New,1000,France,Internet
+,Partner,Dave,Lost,8/25/2020,New,1000,United States,Internet
+Cloud B,Event,Dave,Lost,10/29/2021,New,1000,Netherlands,Internet
+,,Sammy,Lost,5/30/2019,New,1000,United States,Internet
+,Web,Steve,Lost,3/1/2021,New,1000,United Kingdom,Internet
+,Web,Steve,Lost,12/10/2021,New,1000,Canada,Internet
+Cloud C,,Steve,Lost,1/18/2021,New,1000,United Kingdom,Internet
+Cloud B,Web,Steve,Requalify,10/25/2021,Upsell,1000,United Kingdom,Internet
+,,Steve,Lost,6/30/2015,Upsell,1000,Canada,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Internet
+On-Premise,,Susans,Lost,9/14/2018,New,1000,Canada,Internet
+,,Susans,Lost,8/17/2018,New,1000,United States,Internet
+On-Premise,,Susans,Lost,9/15/2017,Upsell,1000,Canada,Internet
+,,Susans,Lost,3/30/2018,New,1000,United States,Internet
+,Web,Tom,Lost,10/9/2020,New,1000,United States,Internet
+Cloud C,Event,Tom,Lost,2/18/2021,New,1000,United States,Internet
+,,Tom,Lost,12/30/2016,New,1000,United States,Internet
+Cloud C,Web,Tom,Lost,5/4/2021,New,1000,Brazil,Internet
+Cloud A,Web,Tom,Lost,6/3/2021,New,1000,United States,Internet
+On-Premise,,Sammy,Won,8/30/2018,Upsell,10000,Germany,Internet
+Cloud A,Web,Steve,Lost,8/28/2020,New,40000,United States,Media
+,,Susans,Lost,6/30/2016,Upsell,40000,United States,Media
+,,Susans,Lost,2/1/2018,New,40000,Canada,Media
+On-Premise,,Susans,Lost,12/31/2016,Upsell,50000,United States,Media
+,,Susans,Lost,10/30/2015,Upsell,50000,United States,Media
+On-Premise,Web,Dave,Lost,4/19/2021,New,50000,France,Media
+Cloud B,Partner,Tom,Lost,6/30/2020,New,50000,South Africa,Media
+,,Dave,Won,9/27/2021,Renewal,50000,Germany,Media
+,,Dave,Won,6/22/2021,Renewal,50000,Germany,Media
+On-Premise,Web,Charlie,Lost,8/31/2021,New,50000,United States,Media
+,,Sammy,Won,3/31/2017,Upsell,50000,United States,Media
+Cloud C,Partner,Alex,Proposal,3/31/2022,Renewal,75000,Australia,Media
+Cloud C,Partner,Alex,Won,3/26/2021,Renewal,75000,Australia,Media
+,,Sammy,Won,3/15/2019,Upsell,75000,Germany,Media
+,Web,Craig,Qualification,4/30/2022,New,90000,United States,Media
+Cloud B,Web,Larry,Lost,3/31/2022,New,100000,Netherlands,Media
+,,Paul,Lost,10/1/2020,New,100000,United States,Media
+,,Susans,Lost,9/30/2016,Upsell,100000,Cyprus,Media
+,,Susans,Lost,12/28/2017,New,100000,Canada,Media
+Cloud C,Partner,Alex,Won,3/31/2020,New,100000,Australia,Media
+On-Premise,,Dave,Won,12/20/2021,Renewal,100000,Germany,Media
+On-Premise,,Greg,Proposal,6/30/2022,Renewal,100000,Germany,Media
+,,Sammy,Won,11/10/2017,New,100000,Germany,Media
+Cloud C,Partner,Dave,Lost,9/25/2020,New,100000,United Kingdom,Media
+Cloud C,Partner,Dave,Lost,1/30/2020,New,100000,United Kingdom,Media
+,,Susans,Lost,12/31/2015,Upsell,150000,Canada,Media
+Cloud C,Partner,Dave,Won,1/27/2021,New,150000,United States,Media
+Cloud C,Partner,Mike,Proposal,1/29/2022,Renewal,150000,United States,Media
+On-Premise,,Sammy,Won,6/19/2018,Upsell,200000,Germany,Media
+,,Sammy,Won,1/31/2019,Renewal,200000,Germany,Media
+,Web,Sammy,Meeting,4/28/2022,New,200000,United Kingdom,Media
+,Web,Dave,Lost,4/1/2022,New,1000,Luxembourg,Mining
+On-Premise,Web,Dave,Lost,4/1/2022,New,1000,Germany,Mining
+,,Dave,Lost,7/16/2021,New,1000,United States,Mining
+Cloud B,,Sammy,Lost,6/28/2018,New,1000,Brazil,Mining
+,,Susans,Lost,7/27/2018,New,1000,United States,Mining
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Mining
+Cloud C,Web,Tom,Requalify,12/31/2021,New,1000,United States,Mining
+On-Premise,Web,Tom,Lost,3/22/2021,New,1000,United Arab Emirates,Mining
+,Partner,Larry,Lost,4/14/2022,New,75000,United States,Mining
+Cloud B,Partner,Dave,Lost,3/22/2021,New,80000,United States,Mining
+Cloud B,Partner,Dave,Won,12/30/2021,New,90000,United States,Mining
+,,Craig,Meeting,12/1/2022,New,90000,Chile,Mining
+Cloud B,,Paul,Lost,5/11/2021,New,100000,Luxembourg,Mining
+Cloud B,Partner,Larry,Proposal,12/29/2022,Renewal,100000,United States,Mining
+Cloud A,,Dave,Lost,2/14/2020,New,100000,United States,Mining
+Cloud C,Partner,Craig,Requalify,3/31/2022,New,150000,Canada,Mining
+,Web,Craig,Lost,12/31/2021,New,1000,United States,Mining
+Cloud C,Partner,Fred,Lost,11/11/2021,Partnership,1000,United States,Mining
+Cloud B,,Fred,Lost,12/31/2020,Partnership,1000,Mexico,Mining
+,Web,Greg,Lost,12/31/2021,New,1000,United States,Mining
+Cloud C,Partner,Paul,Requalify,9/30/2022,New,1000,United States,Mining
+Cloud B,Partner,Sammy,Lost,6/29/2018,New,1000,United States,Mining
+Cloud C,Partner,Steve,Won,1/11/2021,Upsell,1000,United States,Mining
+,Partner,Steve,Won,6/7/2021,Upsell,1000,United States,Mining
+,Web,Steve,Lost,4/30/2021,New,1000,United States,Mining
+Cloud C,Partner,Steve,Lost,12/10/2021,New,1000,United Kingdom,Mining
+Cloud C,Partner,Steve,Won,11/6/2020,New,1000,United States,Mining
+,,Susans,Lost,3/30/2018,Upsell,1000,United States,Mining
+,Partner,Susans,Lost,3/30/2018,New,1000,United Kingdom,Mining
+,,Susans,Lost,12/30/2016,Upsell,1000,India,Mining
+,,Tom,Lost,6/30/2017,New,1000,United States,Mining
+,,Tom,Lost,3/30/2018,New,1000,Switzerland,Mining
+Cloud A,Web,Tom,Requalify,5/31/2021,New,1000,United States,Mining
+,,Tom,Lost,6/30/2017,New,1000,Switzerland,Mining
+,Partner,Steve,Won,9/17/2021,Upsell,2000,United States,Mining
+,,Tom,Lost,11/30/2016,Upsell,20000,United States,Mining
+On-Premise,,Susans,Lost,6/29/2017,New,20000,United States,Mining
+,,Susans,Lost,8/30/2016,Upsell,40000,United States,Mining
+Cloud C,Partner,Paul,Lost,6/30/2022,New,50000,United States,Mining
+Cloud A,Partner,Paul,Lost,7/22/2021,New,50000,United States,Mining
+Cloud C,Partner,Steve,Won,11/10/2021,Renewal,50000,United States,Mining
+,Partner,Nancy,Meeting,11/30/2022,Upsell,75000,United States,Mining
+Cloud A,,Steve,Lost,9/27/2019,New,80000,United States,Mining
+Cloud C,,Nancy,Proposal,11/10/2022,Renewal,90000,United States,Mining
+,,Susans,Lost,8/26/2016,Upsell,100000,United States,Mining
+,,Paul,Lost,7/15/2018,New,100000,United States,Mining
+On-Premise,,Susans,Won,10/12/2016,Upsell,100000,United States,Pharmaceuticals
+,,Susans,Lost,12/15/2017,Renewal,100000,United States,Pharmaceuticals
+Cloud A,,Steve,Lost,12/18/2020,New,100000,United States,Pharmaceuticals
+,,Susans,Lost,12/15/2017,New,100000,United States,Pharmaceuticals
+Cloud C,Partner,Steve,Lost,11/17/2020,New,150000,United Kingdom,Pharmaceuticals
+Cloud A,,Paul,Lost,6/30/2021,New,150000,United States,Pharmaceuticals
+,Web,Mike,Meeting,6/30/2022,New,150000,United States,Pharmaceuticals
+,Partner,Alex,Won,9/24/2021,New,1000,Australia,Professional Services
+,,Alex,Won,9/24/2021,Upsell,1000,Australia,Professional Services
+,Partner,Ben,Lost,10/25/2021,New,1000,India,Professional Services
+,Partner,Ben,Requalify,10/10/2021,New,1000,India,Professional Services
+,Web,Charlie,Lost,3/1/2021,New,1000,United States,Professional Services
+,Web,Dave,Lost,1/15/2021,New,1000,Germany,Professional Services
+Cloud B,Partner,Dave,Lost,4/28/2021,New,1000,United States,Professional Services
+,Web,Dave,Lost,3/5/2021,New,1000,France,Professional Services
+On-Premise,Web,Dave,Lost,10/11/2021,New,1000,United States,Professional Services
+Cloud B,Web,Dave,Lost,8/27/2021,New,1000,India,Professional Services
+,Web,Dave,Lost,12/31/2021,New,1000,United States,Professional Services
+,Web,Dave,Lost,6/9/2021,New,1000,France,Professional Services
+Cloud B,,Greg,Requalify,3/19/2021,New,1000,United States,Professional Services
+,Partner,Greg,Requalify,8/20/2021,New,1000,United States,Professional Services
+,Web,Greg,Lost,8/2/2021,New,1000,United States,Professional Services
+Cloud B,,Greg,Won,6/25/2021,Renewal,1000,United States,Professional Services
+,Web,Mary,Lost,12/31/2021,New,1000,United States,Professional Services
+,Partner,Nancy,Proposal,4/29/2022,Upsell,1000,Canada,Professional Services
+,Web,Paul,Lost,9/26/2021,New,1000,Canada,Professional Services
+,Web,Paul,Lost,1/4/2021,New,1000,United States,Professional Services
+,Web,Paul,Requalify,6/30/2022,New,1000,United States,Professional Services
+On-Premise,,Sammy,Lost,10/26/2018,New,1000,France,Professional Services
+,,Sammy,Lost,6/30/2017,New,1000,"Korea, Republic of",Professional Services
+Cloud B,Partner,Sammy,Lost,6/30/2018,New,1000,France,Professional Services
+,,Sammy,Lost,12/31/2016,New,1000,United States,Professional Services
+,,Sammy,Lost,5/31/2018,New,1000,Sweden,Professional Services
+,,Sammy,Lost,12/31/2016,New,1000,Bermuda,Professional Services
+,,Sammy,Lost,12/31/2016,New,1000,Canada,Professional Services
+,,Sammy,Lost,3/31/2016,Upsell,1000,United States,Professional Services
+,,Sammy,Lost,9/12/2018,Partnership,1000,Japan,Professional Services
+,,Sammy,Lost,6/30/2016,Upsell,1000,United States,Professional Services
+Cloud B,,Steve,Lost,6/14/2019,New,1000,United States,Professional Services
+Cloud B,Web,Steve,Requalify,1/28/2022,New,1000,United States,Professional Services
+,Partner,Steve,Lost,12/30/2016,Upsell,1000,Canada,Professional Services
+,Partner,Steve,Lost,6/4/2018,Upsell,1000,Canada,Professional Services
+,Partner,Steve,Lost,12/31/2016,Upsell,1000,Canada,Professional Services
+Cloud B,Partner,Steve,Lost,10/31/2019,Upsell,1000,Canada,Professional Services
+Cloud A,Web,Steve,Lost,11/11/2021,New,1000,United States,Professional Services
+,Partner,Steve,Lost,2/28/2022,Upsell,1000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,12/30/2020,New,1000,United States,Professional Services
+,,Steve,Lost,12/29/2017,Upsell,1000,United States,Professional Services
+,Web,Steve,Lost,3/1/2021,New,1000,United Kingdom,Professional Services
+Cloud B,,Steve,Lost,9/30/2019,New,1000,United States,Professional Services
+,,Steve,Lost,12/15/2017,Upsell,1000,United States,Professional Services
+Cloud B,Partner,Steve,Lost,4/1/2021,Upsell,1000,Canada,Professional Services
+On-Premise,Web,Steve,Won,3/18/2021,New,1000,United States,Professional Services
+,,Susans,Lost,9/15/2017,New,1000,United Kingdom,Professional Services
+,,Susans,Lost,3/31/2016,Upsell,1000,United States,Professional Services
+,,Susans,Lost,11/30/2018,New,1000,United States,Professional Services
+,,Susans,Lost,9/15/2017,Upsell,1000,United States,Professional Services
+On-Premise,,Susans,Lost,12/20/2018,New,1000,United States,Professional Services
+,,Susans,Lost,3/31/2017,Upsell,1000,United States,Professional Services
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Professional Services
+,,Susans,Lost,12/31/2016,New,1000,United States,Professional Services
+,,Susans,Lost,12/29/2017,Upsell,1000,United States,Professional Services
+,,Susans,Lost,6/30/2016,Upsell,1000,United Kingdom,Professional Services
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Professional Services
+,Partner,Susans,Lost,6/30/2017,Upsell,1000,United States,Professional Services
+,,Susans,Lost,12/15/2017,Upsell,1000,United States,Professional Services
+,Partner,Susans,Lost,6/30/2017,Upsell,1000,India,Professional Services
+,,Susans,Lost,7/16/2018,New,1000,United Kingdom,Professional Services
+,,Susans,Lost,3/30/2017,Upsell,1000,United States,Professional Services
+,,Susans,Lost,12/29/2017,New,1000,United States,Professional Services
+,,Susans,Lost,3/30/2018,New,1000,United States,Professional Services
+,,Susans,Lost,10/5/2018,New,1000,United States,Professional Services
+,,Susans,Lost,4/27/2018,New,1000,United States,Professional Services
+,,Susans,Lost,9/15/2017,Upsell,1000,United States,Professional Services
+On-Premise,,Susans,Lost,11/17/2017,Upsell,1000,India,Professional Services
+On-Premise,,Tom,Lost,12/21/2021,Renewal,1000,Russia,Professional Services
+On-Premise,Event,Tom,Won,6/30/2020,New,1000,South Africa,Professional Services
+On-Premise,,Tom,Won,11/2/2020,Renewal,1000,United States,Professional Services
+On-Premise,Partner,Tom,Lost,9/30/2018,New,1000,United States,Professional Services
+,Web,Tom,Requalify,12/1/2020,New,1000,Spain,Professional Services
+On-Premise,Web,Tom,Lost,10/29/2020,New,1000,Albania,Professional Services
+Cloud B,Web,Tom,Lost,2/25/2021,New,1000,Brazil,Professional Services
+Cloud A,Web,Tom,Requalify,4/7/2021,New,1000,Israel,Professional Services
+On-Premise,Web,Tom,Requalify,12/31/2021,New,1000,United States,Professional Services
+Cloud B,Web,Tom,Requalify,12/18/2020,New,1000,United Kingdom,Professional Services
+,Web,Tom,Requalify,4/2/2021,New,1000,United Kingdom,Professional Services
+,,Tom,Lost,6/30/2017,New,1000,Peru,Professional Services
+On-Premise,Event,Tom,Lost,12/31/2020,Renewal,1000,Denmark,Professional Services
+,Web,Tom,Won,8/6/2021,Upsell,1000,South Africa,Professional Services
+On-Premise,,Tom,Won,12/21/2020,New,1000,Russia,Professional Services
+Cloud A,Partner,Tom,Won,3/4/2021,Renewal,1000,Belgium,Professional Services
+On-Premise,Web,Alex,Lost,2/5/2020,Renewal,10000,India,Professional Services
+On-Premise,Web,Alex,Proposal,2/5/2021,Renewal,10000,India,Professional Services
+Cloud B,Web,Tom,Requalify,9/30/2020,New,10000,India,Professional Services
+,Partner,Nancy,Proposal,3/31/2022,Upsell,20000,Canada,Professional Services
+,Partner,Susans,Lost,5/11/2016,Upsell,20000,United Kingdom,Professional Services
+Cloud B,Partner,Steve,Won,4/22/2020,Upsell,20000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,2/19/2021,Renewal,20000,Canada,Professional Services
+Cloud B,Event,Larry,Proposal,6/25/2022,Renewal,20000,United States,Professional Services
+Cloud B,,Steve,Won,5/13/2020,Renewal,20000,United States,Professional Services
+,,Susans,Lost,2/28/2017,New,20000,United States,Professional Services
+,,Susans,Lost,1/31/2017,New,20000,United States,Professional Services
+,Web,Tom,Lost,9/30/2019,New,20000,United States,Professional Services
+Cloud B,,Steve,Won,6/27/2019,New,20000,United States,Professional Services
+Cloud B,Web,Tom,Lost,12/31/2019,New,40000,United States,Professional Services
+Cloud A,Partner,Tom,Won,1/30/2020,Renewal,40000,Belgium,Professional Services
+Cloud A,Partner,Sammy,Won,1/31/2019,New,40000,Belgium,Professional Services
+Cloud A,Partner,Nancy,Proposal,7/4/2022,Renewal,40000,Belgium,Professional Services
+On-Premise,Web,Sammy,Lost,11/30/2018,New,40000,Myanmar,Professional Services
+Cloud B,Web,Tom,Lost,9/10/2020,New,40000,Canada,Professional Services
+,Web,Nancy,Validation,6/30/2021,New,40000,Bermuda,Professional Services
+,,Sammy,Lost,5/15/2017,New,40000,Turkey,Professional Services
+,,Steve,Lost,12/18/2020,New,40000,United States,Professional Services
+Cloud B,Web,Steve,Lost,4/26/2019,New,40000,United States,Professional Services
+,Partner,Steve,Lost,12/25/2020,New,40000,United States,Professional Services
+,,Susans,Lost,9/30/2016,Upsell,40000,United States,Professional Services
+,,Susans,Lost,9/18/2015,Upsell,50000,United States,Professional Services
+On-Premise,,Tom,Lost,9/1/2020,Renewal,50000,Denmark,Professional Services
+,,Susans,Lost,12/30/2016,Upsell,50000,United States,Professional Services
+On-Premise,,Sammy,Won,12/31/2018,New,50000,Denmark,Professional Services
+Cloud A,,Dave,Lost,11/15/2019,New,50000,United States,Professional Services
+Cloud C,,Dave,Lost,9/30/2020,New,50000,Netherlands,Professional Services
+Cloud B,Partner,Steve,Lost,10/30/2020,Upsell,50000,Canada,Professional Services
+Cloud B,Partner,Steve,Lost,12/27/2019,Upsell,50000,Canada,Professional Services
+Cloud B,,Steve,Lost,11/20/2020,New,50000,Bermuda,Professional Services
+On-Premise,,Susans,Lost,9/30/2020,New,50000,France,Professional Services
+Cloud A,Web,Tom,Lost,5/29/2020,New,50000,United States,Professional Services
+Cloud C,Partner,Tom,Lost,6/30/2020,New,50000,South Africa,Professional Services
+Cloud B,Web,Tom,Lost,8/28/2020,New,50000,United States,Professional Services
+,Web,Tom,Lost,10/9/2020,New,50000,United States,Professional Services
+Cloud C,Partner,Dave,Lost,4/1/2022,New,50000,United States,Professional Services
+,Web,Paul,Meeting,6/30/2022,New,50000,United States,Professional Services
+,,Susans,Lost,12/18/2017,New,50000,United States,Professional Services
+Cloud B,Partner,Susans,Lost,11/10/2020,New,50000,United States,Professional Services
+,Web,Larry,Qualification,5/19/2022,New,75000,United States,Professional Services
+,Partner,Paul,Validation,9/30/2022,New,75000,India,Professional Services
+Cloud B,,Paul,Lost,3/31/2021,New,75000,United States,Professional Services
+,,Susans,Lost,3/30/2018,New,75000,United States,Professional Services
+On-Premise,Web,Greg,Won,2/25/2022,Renewal,75000,United States,Professional Services
+On-Premise,Web,Greg,Proposal,3/15/2023,Renewal,75000,United States,Professional Services
+On-Premise,,Paul,Proposal,10/31/2022,Renewal,75000,United States,Professional Services
+On-Premise,,Tom,Won,10/29/2021,Renewal,75000,United States,Professional Services
+,,Susans,Won,3/10/2018,Renewal,75000,United States,Professional Services
+,,Susans,Won,8/9/2017,Renewal,75000,United States,Professional Services
+,,Susans,Lost,3/10/2019,Renewal,75000,United States,Professional Services
+On-Premise,Web,Mary,Qualification,6/30/2022,New,75000,United States,Professional Services
+,,Susans,Lost,9/25/2015,Upsell,80000,United States,Professional Services
+,Partner,Alex,Proposal,9/29/2022,Renewal,80000,Australia,Professional Services
+,,Susans,Lost,3/30/2018,Upsell,80000,United States,Professional Services
+,Web,Amy,Lost,3/31/2022,New,80000,United Kingdom,Professional Services
+On-Premise,,Steve,Lost,10/23/2020,New,90000,United States,Professional Services
+On-Premise,,Sammy,Won,11/2/2018,New,90000,United States,Professional Services
+Cloud B,,Alex,Lost,12/30/2020,New,90000,United States,Professional Services
+On-Premise,Web,Alex,Lost,5/30/2020,New,90000,Mongolia,Professional Services
+Cloud C,,Dave,Lost,8/31/2020,New,90000,United States,Professional Services
+,Web,Greg,Lost,6/30/2022,New,100000,Cyprus,Professional Services
+,Web,Greg,Meeting,6/30/2022,Upsell,100000,United States,Professional Services
+,Web,Greg,Lost,3/31/2022,New,100000,United States,Professional Services
+,Web,Greg,Meeting,6/30/2022,New,100000,United States,Professional Services
+,Web,Mary,Qualification,9/30/2022,New,100000,United States,Professional Services
+Cloud A,,Steve,Lost,6/26/2020,New,100000,United States,Professional Services
+,,Susans,Lost,3/30/2018,Upsell,100000,India,Professional Services
+,Partner,Susans,Lost,9/30/2016,Upsell,100000,United Kingdom,Professional Services
+Cloud C,,Susans,Lost,8/31/2020,New,100000,United States,Professional Services
+On-Premise,,Susans,Lost,11/30/2018,Upsell,100000,United States,Professional Services
+Cloud B,Web,Larry,Lost,6/29/2022,New,100000,Canada,Professional Services
+Cloud B,Partner,Steve,Lost,6/26/2020,Upsell,100000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,2/19/2021,Renewal,100000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,3/19/2019,Renewal,100000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,2/13/2020,Renewal,100000,Canada,Professional Services
+Cloud B,,Susans,Won,3/19/2018,New,100000,Canada,Professional Services
+,Partner,Craig,Qualification,6/30/2022,New,100000,France,Professional Services
+Cloud A,,Alex,Validation,6/29/2022,Upsell,100000,Australia,Professional Services
+Cloud A,Partner,Mary,Validation,6/30/2022,New,100000,United States,Professional Services
+,,Susans,Lost,6/29/2018,New,100000,United States,Professional Services
+,Web,Joe,Lost,3/31/2022,New,150000,United States,Professional Services
+Cloud B,Partner,Nancy,Won,2/21/2022,Renewal,150000,Canada,Professional Services
+Cloud B,,Nancy,Proposal,2/28/2023,Renewal,150000,Canada,Professional Services
+,Partner,Alex,Lost,1/28/2022,New,150000,"Korea, Republic of",Professional Services
+,Partner,Alex,Qualification,5/27/2022,New,150000,Australia,Professional Services
+,,Alex,Qualification,7/29/2022,New Contract with a Different End Date,150000,Australia,Professional Services
+On-Premise,Web,Dave,Lost,7/31/2020,New,150000,United States,Professional Services
+,,Susans,Lost,6/30/2016,,150000,United States,Professional Services
+,,Susans,Lost,12/15/2017,New,150000,United States,Professional Services
+Cloud B,,Nancy,Proposal,1/5/2023,Renewal,150000,Canada,Professional Services
+Cloud B,Partner,Steve,Won,12/22/2021,Upsell,150000,Canada,Professional Services
+,,Alex,Proposal,11/30/2022,Renewal,150000,Australia,Professional Services
+On-Premise,Web,Larry,Proposal,6/30/2022,Renewal,150000,South Africa,Professional Services
+On-Premise,Web,Tom,Won,6/10/2021,Renewal,150000,South Africa,Professional Services
+,,Susans,Won,2/10/2016,Upsell,150000,United States,Professional Services
+On-Premise,Partner,Susans,Lost,4/30/2019,New,200000,United States,Professional Services
+Cloud B,,Nancy,Proposal,12/29/2022,Renewal,200000,United States,Professional Services
+Cloud B,Partner,Steve,Won,12/9/2021,Renewal,200000,United States,Professional Services
+,Partner,Steve,Lost,3/27/2020,Upsell,200000,Canada,Professional Services
+,Partner,Alex,Meeting,3/31/2022,,200000,India,Professional Services
+,Event,Ben,Meeting,12/31/2021,Upsell,1000,United States,Real Estate
+,Web,Greg,Lost,12/31/2021,New,1000,United States,Real Estate
+Cloud B,Partner,Alex,Won,11/8/2019,Renewal,20000,United Arab Emirates,Real Estate
+Cloud B,Partner,Alex,Lost,11/27/2020,Renewal,20000,United Arab Emirates,Real Estate
+Cloud B,Partner,Sammy,Won,11/12/2018,New,20000,United Arab Emirates,Real Estate
+Cloud B,Partner,Alex,Lost,6/30/2020,Upsell,20000,United Arab Emirates,Real Estate
+Cloud B,,Susans,Lost,3/31/2019,New,50000,United States,Real Estate
+Cloud C,Partner,Susans,Lost,9/30/2020,New,75000,United States,Real Estate
+,Web,Nancy,Validation,4/29/2022,New,75000,United States,Real Estate
+Cloud A,,Susans,Lost,8/15/2019,Upsell,75000,United States,Real Estate
+Cloud A,Partner,Joe,Qualification,9/30/2022,New,100000,United States,Real Estate
+,Partner,Joe,Meeting,5/31/2022,New,200000,United States,Real Estate
+,Web,Paul,Requalify,3/11/2022,New,1000,United States,Renewable Electricity
+,,Susans,Lost,2/23/2018,Upsell,1000,United States,Renewable Electricity
+Cloud C,,Alex,Won,8/12/2021,New,1000,Australia,Retailing
+,Partner,Alex,Won,12/28/2020,New,1000,Singapore,Retailing
+Cloud C,Partner,Alex,Won,3/31/2021,New,1000,Singapore,Retailing
+,Web,Charlie,Requalify,4/30/2021,New,1000,United States,Retailing
+,,Craig,Won,1/27/2022,New,1000,United States,Retailing
+,,Craig,Won,9/22/2021,Upsell,1000,United States,Retailing
+,Web,Dave,Lost,7/1/2021,New,1000,Netherlands,Retailing
+,Partner,Dave,Lost,12/31/2021,New,1000,Netherlands,Retailing
+,,Dave,Lost,7/1/2022,New,1000,United States,Retailing
+,Partner,Dave,Lost,1/8/2021,New,1000,United States,Retailing
+,Web,Dave,Lost,4/1/2022,New,1000,France,Retailing
+Cloud C,,Fred,Lost,12/31/2020,Partnership,1000,United States,Retailing
+,Partner,Greg,Lost,12/31/2021,New,1000,United States,Retailing
+,Partner,Larry,Meeting,5/31/2022,New,1000,United States,Retailing
+Cloud C,,Paul,Lost,12/30/2021,New,1000,United States,Retailing
+On-Premise,,Paul,Lost,7/22/2021,New,1000,United States,Retailing
+,Web,Paul,Lost,3/1/2021,New,1000,United States,Retailing
+,,Paul,Requalify,7/18/2019,New,1000,United States,Retailing
+On-Premise,,Paul,Lost,4/26/2021,New,1000,Canada,Retailing
+On-Premise,Partner,Sammy,Lost,6/30/2019,New,1000,Netherlands,Retailing
+Cloud B,Partner,Sammy,Lost,12/31/2018,New,1000,United Kingdom,Retailing
+,Web,Steve,Lost,5/7/2021,New,1000,Canada,Retailing
+,Web,Steve,Requalify,2/28/2022,New,1000,United Kingdom,Retailing
+Cloud C,,Steve,Lost,7/16/2021,New,1000,Canada,Retailing
+,,Susans,Lost,12/31/2016,Upsell,1000,United States,Retailing
+,,Susans,Lost,12/31/2018,New,1000,United States,Retailing
+On-Premise,,Susans,Lost,12/31/2018,New,1000,United States,Retailing
+,,Susans,Lost,3/31/2018,New,1000,United States,Retailing
+On-Premise,,Susans,Lost,7/27/2018,New,1000,United States,Retailing
+On-Premise,,Susans,Lost,6/22/2018,New,1000,United States,Retailing
+,,Susans,Lost,8/31/2018,New,1000,United States,Retailing
+,,Susans,Lost,2/28/2017,New,1000,United States,Retailing
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,Retailing
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,Retailing
+,Partner,Susans,Lost,12/31/2018,New,1000,United States,Retailing
+,Web,Tom,Lost,10/20/2021,New,1000,France,Retailing
+On-Premise,Web,Tom,Requalify,11/11/2021,New,1000,Brazil,Retailing
+Cloud C,Partner,Tom,Won,6/17/2021,New,1000,Mexico,Retailing
+Cloud C,Partner,Tom,Lost,10/11/2021,Upsell,1000,Mexico,Retailing
+,Partner,Dave,Won,6/24/2021,Upsell,2000,United States,Retailing
+Cloud C,,Alex,Proposal,2/14/2023,Renewal,10000,Australia,Retailing
+Cloud B,Web,Paul,Won,7/31/2021,Upsell,20000,United States,Retailing
+Cloud C,,Alex,Won,2/15/2022,Renewal,20000,Australia,Retailing
+,Partner,Dave,Won,10/6/2021,Renewal,20000,United States,Retailing
+,,Larry,Proposal,10/6/2022,Renewal,20000,United States,Retailing
+On-Premise,,Dave,Won,12/31/2020,Upsell,20000,United States,Retailing
+,Web,Paul,Won,8/20/2021,Upsell,20000,United States,Retailing
+,,Susans,Won,6/18/2020,Upsell,20000,United States,Retailing
+Cloud B,,Susans,Lost,3/4/2020,Renewal,40000,United States,Retailing
+,,Susans,Lost,6/30/2016,Upsell,40000,United States,Retailing
+,Partner,Alex,Lost,12/31/2021,Upsell,50000,Singapore,Retailing
+Cloud C,Web,Susans,Lost,6/30/2020,New,50000,Portugal,Retailing
+Cloud C,,Tom,Requalify,12/30/2020,New,50000,Mexico,Retailing
+Cloud B,,Susans,Won,3/4/2019,New,50000,United States,Retailing
+Cloud C,Partner,Alex,Proposal,4/9/2022,Renewal,50000,Singapore,Retailing
+,Partner,Dave,Lost,10/6/2021,Upsell,75000,United States,Retailing
+Cloud C,Partner,Dave,Lost,1/26/2021,Upsell,75000,United States,Retailing
+Cloud B,Web,Craig,Proposal,9/28/2022,Renewal,75000,United States,Retailing
+Cloud B,Web,Craig,Won,9/30/2021,New,75000,United States,Retailing
+Cloud B,,Dave,Won,3/18/2021,Renewal,75000,United States,Retailing
+Cloud B,,Susans,Won,3/31/2020,New,75000,United States,Retailing
+,Web,Larry,Meeting,6/30/2022,New,75000,Norway,Retailing
+Cloud B,,Steve,Lost,8/28/2020,New,80000,United States,Retailing
+,,Susans,Lost,9/25/2015,Upsell,80000,United States,Retailing
+Cloud C,,Craig,Won,1/31/2022,Upsell,80000,United States,Retailing
+On-Premise,,Dave,Won,12/9/2020,Upsell,80000,United States,Retailing
+,,Alex,Won,2/16/2022,Upsell,80000,Australia,Retailing
+,,Craig,Validation,4/30/2022,Upsell,80000,United States,Retailing
+Cloud B,,Dave,Lost,4/30/2020,New,80000,United States,Retailing
+,Web,Craig,Proposal,2/7/2022,Upsell,90000,Canada,Retailing
+Cloud B,Web,Tom,Lost,12/13/2019,New,90000,United States,Retailing
+Cloud C,,Ben,Requalify,10/10/2021,New,90000,United States,Retailing
+Cloud C,Partner,Dave,Lost,8/16/2019,Upsell,90000,United States,Retailing
+Cloud C,Partner,Dave,Lost,1/8/2021,New,100000,France,Retailing
+,Web,Greg,Meeting,6/30/2022,New,100000,United States,Retailing
+Cloud B,Web,Larry,Validation,4/21/2022,New,100000,United States,Retailing
+,Partner,Larry,Validation,4/6/2022,New,100000,United States,Retailing
+Cloud B,Partner,Paul,Lost,4/13/2020,New,100000,United States,Retailing
+Cloud B,,Susans,Lost,6/30/2020,New,100000,United Kingdom,Retailing
+,,Susans,Lost,5/31/2017,Upsell,100000,United States,Retailing
+,,Susans,Lost,4/18/2014,Upsell,100000,United States,Retailing
+,,Susans,Lost,6/30/2015,Upsell,100000,United States,Retailing
+,,Susans,Lost,4/18/2014,Upsell,100000,United States,Retailing
+,Partner,Susans,Lost,10/29/2015,Upsell,100000,United States,Retailing
+,,Tom,Lost,9/25/2015,Upsell,100000,United States,Retailing
+Cloud C,Partner,Dave,Won,1/21/2020,Upsell,100000,United States,Retailing
+Cloud C,Partner,Dave,Won,10/6/2021,Renewal,100000,United States,Retailing
+Cloud C,Partner,Dave,Won,9/30/2020,Renewal,100000,United States,Retailing
+Cloud C,,Larry,Proposal,10/6/2022,Renewal,100000,United States,Retailing
+Cloud C,Partner,Paul,Proposal,3/31/2022,New,100000,Spain,Retailing
+On-Premise,Web,Dave,Lost,2/12/2021,New,100000,United States,Retailing
+On-Premise,Event,Dave,Lost,8/23/2021,New,100000,United States,Retailing
+On-Premise,Event,Mary,Lost,6/29/2022,New,100000,United States,Retailing
+On-Premise,,Dave,Lost,7/31/2020,New,150000,United States,Retailing
+,,Susans,Lost,9/30/2016,Upsell,150000,United States,Retailing
+Cloud C,Partner,Joe,Validation,6/25/2022,Renewal,150000,Mexico,Retailing
+,,Craig,Proposal,9/20/2024,Renewal,150000,Canada,Retailing
+,Web,Paul,Won,9/20/2021,New,150000,Canada,Retailing
+,Partner,Steve,Lost,12/11/2020,New,150000,United Kingdom,Retailing
+On-Premise,,Dave,Won,12/13/2021,Renewal,150000,United States,Retailing
+Cloud C,Partner,Dave,Won,10/6/2021,Renewal,150000,United States,Retailing
+Cloud C,Partner,Dave,Won,9/30/2020,Renewal,150000,United States,Retailing
+Cloud C,,Larry,Proposal,10/6/2022,Renewal,150000,United States,Retailing
+On-Premise,Partner,Dave,Lost,7/8/2021,New,150000,United States,Retailing
+On-Premise,,Ed,Proposal,5/16/2022,Upsell,150000,United States,Retailing
+,Partner,Paul,Meeting,9/30/2022,New,150000,France,Retailing
+,Web,Steve,Lost,1/31/2022,New,150000,United States,Retailing
+Cloud B,,Ed,Proposal,12/31/2022,Renewal,150000,United States,Retailing
+Cloud C,Event,Dave,Won,10/4/2019,New,150000,United States,Retailing
+Cloud C,,Paul,Won,2/25/2021,New,200000,United States,Retailing
+,,Craig,Meeting,11/30/2022,Upsell,200000,Canada,Retailing
+Cloud C,,Craig,Proposal,3/1/2024,Renewal,200000,United States,Retailing
+On-Premise,Web,Craig,Won,11/17/2021,Upsell,200000,United States,Retailing
+On-Premise,,Craig,Proposal,1/31/2023,Renewal,200000,United States,Retailing
+On-Premise,,Dave,Lost,12/31/2021,New,150000,United States,Specialty Retail
+,Web,Alex,Proposal,3/30/2022,Upsell,1000,"Korea, Republic of","Technology Hardware, Storage & Peripherals"
+On-Premise,Web,Charlie,Requalify,3/1/2021,New,1000,United States,"Technology Hardware, Storage & Peripherals"
+,,Sammy,Lost,12/31/2016,New,1000,United States,"Technology Hardware, Storage & Peripherals"
+,Web,Alex,Proposal,3/31/2022,Renewal,20000,"Korea, Republic of","Technology Hardware, Storage & Peripherals"
+,Web,Sammy,Lost,2/25/2020,Renewal,20000,"Korea, Republic of","Technology Hardware, Storage & Peripherals"
+Cloud B,,Mike,Validation,12/30/2022,New,50000,United States,"Technology Hardware, Storage & Peripherals"
+,Web,Sammy,Won,2/26/2019,New,100000,"Korea, Republic of","Technology Hardware, Storage & Peripherals"
+,,Susans,Lost,12/30/2016,Upsell,150000,United States,"Technology Hardware, Storage & Peripherals"
+,,Susans,Lost,9/30/2017,Upsell,200000,United States,"Technology Hardware, Storage & Peripherals"
+Cloud C,Partner,Craig,Meeting,12/31/2021,New,1000,United States,"Textiles, Apparel & Luxury Goods"
+,Web,Dave,Lost,4/1/2022,New,1000,United States,"Textiles, Apparel & Luxury Goods"
+Cloud C,Partner,Dave,Lost,1/31/2022,New,1000,Switzerland,"Textiles, Apparel & Luxury Goods"
+,,Susans,Lost,12/30/2016,Upsell,1000,United States,"Textiles, Apparel & Luxury Goods"
+,,Susans,Lost,2/28/2017,New,40000,United States,"Textiles, Apparel & Luxury Goods"
+Cloud C,,Susans,Lost,6/30/2020,New,50000,France,"Textiles, Apparel & Luxury Goods"
+Cloud B,,Susans,Lost,12/21/2018,New,100000,United States,"Textiles, Apparel & Luxury Goods"
+Cloud B,Web,Tom,Lost,8/2/2021,Renewal,1000,United States,Trading Companies & Distributors
+Cloud B,Web,Tom,Won,8/7/2019,New,40000,United States,Trading Companies & Distributors
+Cloud B,Web,Tom,Won,7/8/2020,Renewal,50000,United States,Trading Companies & Distributors
+,Web,Charlie,Lost,11/20/2020,New,1000,Canada,Transportation
+On-Premise,Web,Dave,Lost,4/1/2022,New,1000,Portugal,Transportation
+,,Dave,Lost,4/9/2018,New,1000,United States,Transportation
+Cloud B,Web,Tom,Requalify,12/30/2021,New,1000,United States,Transportation
+Cloud B,Partner,Susans,Won,6/15/2020,New,10000,Austria,Transportation
+Cloud B,Partner,Dave,Won,10/28/2020,Upsell,10000,Austria,Transportation
+Cloud B,Partner,Dave,Won,10/25/2019,New,40000,United States,Transportation
+Cloud B,Partner,Dave,Won,10/22/2021,Renewal,40000,United States,Transportation
+Cloud B,Partner,Dave,Won,11/30/2020,Renewal,40000,United States,Transportation
+Cloud B,,Paul,Proposal,10/24/2022,Renewal,40000,United States,Transportation
+,Seller,Amy,Meeting,3/31/2022,New,50000,United States,Transportation
+,Partner,Paul,Won,2/17/2022,Renewal,50000,Austria,Transportation
+,,Susans,Lost,3/15/2015,Upsell,100000,United States,Transportation
+,Partner,Dave,Won,11/16/2020,New,150000,Austria,Transportation
+,,Paul,Proposal,5/31/2022,Renewal,150000,Austria,Transportation
+Cloud B,,Susans,Lost,12/31/2018,New,1000,Canada,Utilities
+,Partner,Susans,Lost,6/30/2017,Upsell,1000,United States,Utilities
+Cloud B,Web,Tom,Requalify,3/30/2022,New,1000,United States,Utilities
+,Web,Tom,Lost,10/2/2020,New,50000,Chile,Utilities
+,Partner,Greg,Validation,4/29/2022,New,100000,United States,Utilities
+Cloud B,Partner,Steve,Lost,5/29/2020,New,100000,United States,Utilities
+Cloud B,Web,Tom,Lost,11/29/2019,New,100000,Australia,Utilities
+,Partner,Dave,Requalify,2/28/2022,New,100000,Italy,Utilities
+,,Susans,Lost,11/27/2015,,100000,United States,Utilities
+,,Susans,Lost,6/30/2016,Upsell,150000,United States,Utilities
+,Web,Amy,Validation,12/30/2022,New,150000,United States,Utilities
+,Partner,Greg,Validation,6/30/2022,New,150000,United Kingdom,Utilities
+Cloud B,Web,Greg,Proposal,3/15/2022,New,200000,United Kingdom,Utilities
+,Web,Greg,Meeting,3/31/2022,,200000,United Kingdom,Utilities
+,Web,Alex,Lost,9/17/2021,New,1000,Vietnam,
+On-Premise,,Dave,Lost,5/7/2021,New,1000,United States,
+,Event,Dave,Won,4/30/2021,Upsell,1000,United States,
+,,Dave,Won,6/28/2021,Upsell,1000,United States,
+,Web,Dave,Lost,8/25/2020,New,1000,United States,
+On-Premise,Web,Fred,Lost,1/7/2021,Partnership,1000,United States,
+,Partner,Fred,Lost,10/30/2016,Partnership,1000,Japan,
+,Web,Greg,Requalify,8/25/2021,New,1000,United States,
+,Web,Paul,Requalify,5/7/2021,New,1000,Canada,
+,Web,Sammy,Won,8/30/2018,Renewal,1000,Russia,
+,Web,Steve,Lost,3/19/2021,New,1000,United States,
+,Web,Steve,Lost,9/24/2021,New,1000,Canada,
+,,Susans,Lost,12/30/2016,Upsell,1000,Canada,
+,,Susans,Lost,6/30/2017,Upsell,1000,United States,
+,,Susans,Lost,6/30/2016,Upsell,1000,United States,
+On-Premise,,Susans,Lost,8/1/2018,New,1000,Australia,
+,Web,Susans,Requalify,4/13/2017,Partnership,1000,Russia,
+,,Susans,Lost,3/30/2018,Upsell,1000,United States,
+On-Premise,,Susans,Lost,12/30/2016,Upsell,1000,United States,
+,,Susans,Lost,9/15/2017,Upsell,1000,United States,
+,,Tom,Lost,12/31/2018,New,1000,United States,
+On-Premise,Web,Tom,Requalify,4/2/2021,New,1000,United Kingdom,
+,Web,Tom,Lost,3/15/2021,New,1000,Canada,
+Cloud B,Partner,Tom,Lost,5/10/2021,New,1000,Chile,
+,Event,Tom,Lost,7/1/2021,New,1000,United States,
+,Web,Sammy,Requalify,9/30/2020,Renewal,2000,Russia,
+,Web,Sammy,Requalify,7/21/2020,Renewal,2000,Russia,
+On-Premise,Partner,Fred,Won,11/17/2020,Upsell,2000,Japan,
+On-Premise,Partner,Fred,Won,12/7/2020,Upsell,2000,Japan,
+On-Premise,Partner,Fred,Won,1/7/2021,Upsell,2000,Japan,
+On-Premise,Partner,Fred,Won,3/8/2021,Upsell,2000,Japan,
+,,Sammy,Proposal,3/14/2021,Renewal,8000,"Korea, Republic of",
+,,Sammy,Lost,3/14/2020,Renewal,8000,"Korea, Republic of",
+,,Susans,Lost,4/26/2019,Upsell,8000,Canada,
+,Web,Sammy,Proposal,12/22/2020,Renewal,8000,Russia,
+Cloud B,,Susans,Won,10/16/2018,New,10000,Canada,
+On-Premise,,Dave,Won,3/6/2020,Upsell,10000,United States,
+,Partner,Fred,Won,7/16/2020,Upsell,10000,Japan,
+,,Dave,Won,12/28/2021,Upsell,20000,United States,
+Cloud C,Partner,Alex,Lost,9/30/2019,Upsell,20000,United States,
+On-Premise,,Paul,Proposal,3/31/2022,Renewal,40000,United States,
+,,Sammy,Won,3/12/2018,New,40000,"Korea, Republic of",
+,,Dave,Requalify,3/31/2022,Upsell,50000,United States,
+,Partner,Fred,Won,4/16/2021,Partnership,50000,Japan,
+On-Premise,Partner,Fred,Won,6/12/2020,Renewal,50000,Japan,
+On-Premise,,Charlie,Requalify,9/18/2020,New,50000,United States,
+On-Premise,,Dave,Won,12/23/2021,Renewal,50000,United States,
+On-Premise,,Dave,Won,12/31/2020,Upsell,50000,United States,
+On-Premise,,Paul,Proposal,1/4/2023,Renewal,50000,United States,
+,,Dave,Lost,3/31/2020,New,50000,United States,
+,Web,Dave,Lost,1/4/2021,New,50000,United States,
+,Web,Steve,Lost,9/20/2019,New,50000,United States,
+,Partner,Alex,Proposal,6/30/2022,Renewal,50000,Japan,
+Cloud B,Web,Tom,Requalify,4/29/2022,New,75000,United Arab Emirates,
+,Web,Sammy,Meeting,7/13/2022,New,75000,United States,
+Cloud B,,Steve,Lost,8/14/2020,New,75000,United States,
+Cloud B,,Ed,Won,12/23/2021,New,80000,Canada,
+Cloud B,,Nancy,Proposal,12/22/2022,Renewal,80000,Canada,
+On-Premise,,Dave,Won,12/19/2020,New,80000,United States,
+On-Premise,Web,Dave,Won,12/9/2021,Renewal,80000,United States,
+On-Premise,Web,Paul,Proposal,12/22/2022,Renewal,80000,United States,
+On-Premise,,Dave,Won,3/25/2020,Renewal,80000,United States,
+Cloud C,,Steve,Lost,11/29/2019,New,80000,United States,
+On-Premise,Web,Steve,Lost,10/1/2020,New,90000,United States,
+On-Premise,,Dave,Lost,2/19/2021,New,100000,Australia,
+,Web,Greg,Lost,3/31/2022,New,100000,Switzerland,
+On-Premise,,Dave,Won,3/22/2021,Renewal,100000,United States,
+On-Premise,,Susans,Won,3/29/2019,New,100000,United States,
+,Web,Sammy,Won,8/30/2018,Upsell,100000,Russia,
+On-Premise,,Paul,Proposal,3/31/2022,Renewal,100000,United States,
+,,Susans,Lost,3/30/2018,New,150000,United States,
+On-Premise,Web,Paul,Validation,6/30/2022,New,150000,Sweden,
+Cloud B,,Susans,Won,11/25/2018,New,150000,Canada,
